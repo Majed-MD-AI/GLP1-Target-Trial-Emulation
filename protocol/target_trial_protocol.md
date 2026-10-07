@@ -84,3 +84,43 @@ Treatment effects will primarily be expressed using:
 
 - Risk difference
 - Risk ratio
+
+## Baseline Confounders
+
+Potential baseline confounders will be measured before or at time zero.
+
+These may include:
+
+- Maternal age
+- Body mass index
+- Diabetes status and severity
+- Hypertension
+- Prior pregnancy history
+- Smoking status
+- Indication for GLP-1 receptor agonist treatment
+- Concomitant medications
+- Baseline comorbidity burden
+
+These variables are selected because they may influence both treatment strategy selection and pregnancy outcomes.
+
+## Confounding Control
+
+The primary analysis will use propensity-score methods to improve comparability between treatment strategy groups.
+
+The planned approach is:
+
+1. Estimate the probability of receiving the observed treatment strategy using baseline covariates
+2. Calculate inverse probability of treatment weights
+3. Assess covariate balance after weighting
+4. Estimate weighted risks of the primary outcome
+5. Calculate risk differences and risk ratios
+
+Sensitivity analyses may use alternative adjustment strategies such as regression adjustment or propensity-score matching.
+
+## Analysis Principle
+
+The analysis will follow a causal-inference framework.
+
+Only variables measured before or at time zero will be considered for baseline confounding adjustment.
+
+Post-treatment variables will not be adjusted for unless explicitly required by the estimand.
