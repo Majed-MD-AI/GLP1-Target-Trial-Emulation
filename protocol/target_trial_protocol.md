@@ -119,6 +119,45 @@ Sensitivity analyses may use alternative adjustment strategies such as regressio
 
 ## Analysis Principle
 
+## Relevance to External Control Arms
+
+The principles used in this target trial emulation are directly relevant to external control arm design.
+
+An external control arm uses real-world data to construct a comparison group for a treated population, often when a randomized concurrent control group is unavailable or limited.
+
+Key principles shared with target trial emulation include:
+
+- Clear eligibility criteria
+- Alignment of time zero
+- Comparable baseline characteristics
+- Control of confounding
+- Transparent cohort construction
+- Sensitivity analyses for residual bias
+
+## OMOP and EHDS Relevance
+
+The project will use an OMOP-inspired structure for key clinical variables and cohort definitions.
+
+This supports the broader goal of reproducible and interoperable real-world evidence generation across healthcare databases.
+
+In a real European data environment, standardized data models such as OMOP may facilitate multi-database analyses and evidence generation within the broader European Health Data Space ecosystem.
+
+## HTA Evidence Generation
+
+The final outputs will focus on treatment-effect measures that are relevant to health technology assessment.
+
+These include:
+
+- Absolute risks
+- Risk differences
+- Risk ratios
+- Confidence intervals
+- Covariate balance diagnostics
+- Sensitivity analyses
+- Transparent reporting of assumptions and limitations
+
+The goal is to demonstrate how real-world data can be transformed into structured causal evidence that may support comparative-effectiveness and HTA decision-making.
+
 The analysis will follow a causal-inference framework.
 
 Only variables measured before or at time zero will be considered for baseline confounding adjustment.
