@@ -50,3 +50,37 @@ Time zero is the estimated date of conception.
 Eligibility and treatment strategy classification are determined using information available before or at time zero.
 
 Follow-up begins at conception and continues until the end of pregnancy or occurrence of the outcome of interest.
+
+## Follow-up
+
+Follow-up begins at the estimated date of conception and continues until the end of pregnancy.
+
+Participants will be followed until:
+
+- Delivery
+- Pregnancy loss
+- End of available observation
+
+## Outcomes
+
+### Primary Outcome
+
+Preterm birth, defined as delivery before 37 completed weeks of gestation.
+
+### Secondary Outcomes
+
+Potential secondary outcomes include:
+
+- Preeclampsia
+- Small for gestational age
+- Large for gestational age
+- Congenital malformations
+
+## Causal Estimand
+
+The primary estimand is the effect of early versus late preconception GLP-1RA discontinuation on the risk of preterm birth among eligible pregnancies.
+
+Treatment effects will primarily be expressed using:
+
+- Risk difference
+- Risk ratio
