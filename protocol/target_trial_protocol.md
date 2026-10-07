@@ -119,6 +119,14 @@ Sensitivity analyses may use alternative adjustment strategies such as regressio
 
 ## Analysis Principle
 
+The analysis follows a causal-inference framework.
+
+Only variables measured before or at time zero are considered for baseline confounding adjustment.
+
+Post-treatment variables are not adjusted for unless explicitly required by the estimand.
+
+This preserves the temporal ordering of eligibility, treatment assignment, confounder measurement, and outcome assessment defined by the target trial.
+
 ## Relevance to External Control Arms
 
 The principles used in this target trial emulation are directly relevant to external control arm design.
@@ -157,9 +165,3 @@ These include:
 - Transparent reporting of assumptions and limitations
 
 The goal is to demonstrate how real-world data can be transformed into structured causal evidence that may support comparative-effectiveness and HTA decision-making.
-
-The analysis will follow a causal-inference framework.
-
-Only variables measured before or at time zero will be considered for baseline confounding adjustment.
-
-Post-treatment variables will not be adjusted for unless explicitly required by the estimand.
