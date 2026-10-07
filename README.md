@@ -172,7 +172,7 @@ The broader objective is to demonstrate how real-world data can be transformed i
 
 ## Repository Structure
 
-`text
+```text
 GLP1-Target-Trial-Emulation/
 │
 ├── README.md
@@ -187,8 +187,11 @@ GLP1-Target-Trial-Emulation/
 │
 └── results/
     └── hta_results_summary.csv
+```
 
-   ## Current Status
+---
+
+## Current Status
 
 ### Completed
 
