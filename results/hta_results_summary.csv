@@ -1,0 +1,3 @@
+Analysis,Early risk (%),Late risk (%),Risk difference (percentage points),RD 95% CI,Risk ratio,RR 95% CI
+Crude,12.684031710079275,21.217547000895255,8.533515290815979,Not calculated,1.672776250159867,Not calculated
+IPTW-adjusted,14.294178848587125,19.877754264831374,5.5835754162442495,2.5 to 9.0,1.390618829901946,1.15 to 1.71
