@@ -1,37 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
-<style>
-text{font-family:Arial,sans-serif;fill:#222}.title{font-size:24px;font-weight:700}.lab{font-size:15px}.axis{font-size:12px}.legend{font-size:14px}
-.grid{stroke:#ddd;stroke-width:1}.axisline{stroke:#555;stroke-width:1.2}.thr{stroke:#888;stroke-width:1.5;stroke-dasharray:6 5}
-.before{fill:#555}.after{fill:#fff;stroke:#111;stroke-width:2}
-</style>
-<rect width="100%" height="100%" fill="white"/>
-<text x="230" y="34" class="title">Covariate balance before and after IPTW</text>
-<line x1="455.4545454545455" y1="50" x2="455.4545454545455" y2="415" class="thr"/>
-<text x="460.4545454545455" y="44" class="axis">|SMD| = 0.10</text><line x1="230" y1="70" x2="230" y2="415" class="grid"/>
-  <text x="230" y="439" text-anchor="middle" class="axis">-0.1</text><line x1="342.72727272727275" y1="70" x2="342.72727272727275" y2="415" class="grid"/>
-  <text x="342.72727272727275" y="439" text-anchor="middle" class="axis">0.0</text><line x1="455.4545454545455" y1="70" x2="455.4545454545455" y2="415" class="grid"/>
-  <text x="455.4545454545455" y="439" text-anchor="middle" class="axis">0.1</text><line x1="568.1818181818182" y1="70" x2="568.1818181818182" y2="415" class="grid"/>
-  <text x="568.1818181818182" y="439" text-anchor="middle" class="axis">0.2</text><line x1="680.909090909091" y1="70" x2="680.909090909091" y2="415" class="grid"/>
-  <text x="680.909090909091" y="439" text-anchor="middle" class="axis">0.3</text><line x1="793.6363636363636" y1="70" x2="793.6363636363636" y2="415" class="grid"/>
-  <text x="793.6363636363636" y="439" text-anchor="middle" class="axis">0.4</text><line x1="230" y1="415" x2="850" y2="415" class="axisline"/>
-<text x="540" y="458" text-anchor="middle" class="lab">Standardized mean difference</text><text x="215" y="95" text-anchor="end" class="lab">Age</text>
-  <line x1="399.0909090909091" y1="90" x2="343.8545454545455" y2="90" stroke="#aaa" stroke-width="2"/>
-  <circle cx="399.0909090909091" cy="90" r="7" class="before"/>
-  <circle cx="343.8545454545455" cy="90" r="7" class="after"/><text x="215" y="150" text-anchor="end" class="lab">BMI</text>
-  <line x1="519.709090909091" y1="145" x2="333.7090909090909" y2="145" stroke="#aaa" stroke-width="2"/>
-  <circle cx="519.709090909091" cy="145" r="7" class="before"/>
-  <circle cx="333.7090909090909" cy="145" r="7" class="after"/><text x="215" y="205" text-anchor="end" class="lab">Diabetes</text>
-  <line x1="797.0181818181818" y1="200" x2="342.72727272727275" y2="200" stroke="#aaa" stroke-width="2"/>
-  <circle cx="797.0181818181818" cy="200" r="7" class="before"/>
-  <circle cx="342.72727272727275" cy="200" r="7" class="after"/><text x="215" y="260" text-anchor="end" class="lab">Hypertension</text>
-  <line x1="483.6363636363636" y1="255" x2="330.32727272727277" y2="255" stroke="#aaa" stroke-width="2"/>
-  <circle cx="483.6363636363636" cy="255" r="7" class="before"/>
-  <circle cx="330.32727272727277" cy="255" r="7" class="after"/><text x="215" y="315" text-anchor="end" class="lab">Smoking</text>
-  <line x1="313.41818181818184" y1="310" x2="351.74545454545455" y2="310" stroke="#aaa" stroke-width="2"/>
-  <circle cx="313.41818181818184" cy="310" r="7" class="before"/>
-  <circle cx="351.74545454545455" cy="310" r="7" class="after"/><text x="215" y="370" text-anchor="end" class="lab">Prior preterm birth</text>
-  <line x1="508.4363636363636" y1="365" x2="346.1090909090909" y2="365" stroke="#aaa" stroke-width="2"/>
-  <circle cx="508.4363636363636" cy="365" r="7" class="before"/>
-  <circle cx="346.1090909090909" cy="365" r="7" class="after"/><circle cx="685" cy="35" r="7" class="before"/><text x="700" y="40" class="legend">Before IPTW</text>
-<circle cx="795" cy="35" r="7" class="after"/><text x="810" y="40" class="legend">After IPTW</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="480" viewBox="0 0 920 480">
+<style>text{font-family:Arial,sans-serif;fill:#222}.title{font-size:24px;font-weight:700}.lab{font-size:15px}.axis{font-size:12px}.before{fill:#555}.after{fill:white;stroke:#111;stroke-width:2}.grid{stroke:#ddd;stroke-width:1}.thr{stroke:#888;stroke-width:1.5;stroke-dasharray:6 5}</style>
+<rect width="100%" height="100%" fill="white"/><text x="240" y="34" class="title">Eligibility-aligned covariate balance before and after IPTW</text>
+<line x1="465.4545454545455" y1="50" x2="465.4545454545455" y2="425" class="thr"/><text x="470.4545454545455" y="44" class="axis">|SMD| = 0.10</text><line x1="240" y1="70" x2="240" y2="425" class="grid"/><text x="240" y="449" text-anchor="middle" class="axis">-0.1</text><line x1="352.72727272727275" y1="70" x2="352.72727272727275" y2="425" class="grid"/><text x="352.72727272727275" y="449" text-anchor="middle" class="axis">0.0</text><line x1="465.4545454545455" y1="70" x2="465.4545454545455" y2="425" class="grid"/><text x="465.4545454545455" y="449" text-anchor="middle" class="axis">0.1</text><line x1="578.1818181818182" y1="70" x2="578.1818181818182" y2="425" class="grid"/><text x="578.1818181818182" y="449" text-anchor="middle" class="axis">0.2</text><line x1="690.909090909091" y1="70" x2="690.909090909091" y2="425" class="grid"/><text x="690.909090909091" y="449" text-anchor="middle" class="axis">0.3</text><line x1="803.6363636363636" y1="70" x2="803.6363636363636" y2="425" class="grid"/><text x="803.6363636363636" y="449" text-anchor="middle" class="axis">0.4</text><text x="225" y="103" text-anchor="end" class="lab">Age</text><line x1="417.3704022511432" y1="98" x2="351.1763969534552" y2="98" stroke="#aaa" stroke-width="2"/><circle cx="417.3704022511432" cy="98" r="7" class="before"/><circle cx="351.1763969534552" cy="98" r="7" class="after"/><text x="225" y="158" text-anchor="end" class="lab">BMI</text><line x1="526.6182441683715" y1="153" x2="343.7525665512854" y2="153" stroke="#aaa" stroke-width="2"/><circle cx="526.6182441683715" cy="153" r="7" class="before"/><circle cx="343.7525665512854" cy="153" r="7" class="after"/><text x="225" y="213" text-anchor="end" class="lab">Diabetes</text><line x1="806.9176456562668" y1="208" x2="352.58138353431684" y2="208" stroke="#aaa" stroke-width="2"/><circle cx="806.9176456562668" cy="208" r="7" class="before"/><circle cx="352.58138353431684" cy="208" r="7" class="after"/><text x="225" y="268" text-anchor="end" class="lab">Hypertension</text><line x1="496.9941713163333" y1="263" x2="339.2714951733199" y2="263" stroke="#aaa" stroke-width="2"/><circle cx="496.9941713163333" cy="263" r="7" class="before"/><circle cx="339.2714951733199" cy="263" r="7" class="after"/><text x="225" y="323" text-anchor="end" class="lab">Smoking</text><line x1="325.1781865868066" y1="318" x2="361.27000384481727" y2="318" stroke="#aaa" stroke-width="2"/><circle cx="325.1781865868066" cy="318" r="7" class="before"/><circle cx="361.27000384481727" cy="318" r="7" class="after"/><text x="225" y="378" text-anchor="end" class="lab">Prior preterm birth</text><line x1="524.147455836593" y1="373" x2="355.97187757230347" y2="373" stroke="#aaa" stroke-width="2"/><circle cx="524.147455836593" cy="373" r="7" class="before"/><circle cx="355.97187757230347" cy="373" r="7" class="after"/><circle cx="670" cy="35" r="7" class="before"/><text x="685" y="40" class="lab">Before IPTW</text><circle cx="805" cy="35" r="7" class="after"/><text x="820" y="40" class="lab">After IPTW</text><text x="550" y="465" text-anchor="middle" class="lab">Standardized mean difference</text></svg>
