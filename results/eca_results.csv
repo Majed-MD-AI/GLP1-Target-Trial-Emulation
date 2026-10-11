@@ -1,0 +1,3 @@
+Analysis,Index treated N,External control N,Index treated risk (%),Weighted external control risk (%),Risk difference (percentage points),RD 95% CI,Risk ratio,RR 95% CI,Estimand
+External control ATT-weighted,1111,1500,21.152115211521153,14.850000679997494,6.302114531523659,3.50 to 9.27,1.4243847975045831,1.21 to 1.69,"ATT-style contrast in the baseline characteristics of the index treated cohort"
+Common-support restricted ECA,1108,1488,21.028880866425992,14.882029096167318,6.146851770258674,Not bootstrapped separately,1.4130385534484486,Not bootstrapped separately,"ATT-style contrast after common-support restriction"
