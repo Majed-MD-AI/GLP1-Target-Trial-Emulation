@@ -32,7 +32,12 @@ INPUT = ROOT / "data" / "synthetic_glp1_pregnancy.csv"
 RESULTS_DIR = ROOT / "results"
 RESULTS_DIR.mkdir(exist_ok=True)
 
-df = pd.read_csv(INPUT)
+source = pd.read_csv(INPUT)
+
+# Enforce the target-trial age eligibility criterion before sensitivity analyses.
+df = source[
+    source["age"].between(18, 45, inclusive="both")
+].copy()
 
 BASELINE_VARS = [
     "age",
