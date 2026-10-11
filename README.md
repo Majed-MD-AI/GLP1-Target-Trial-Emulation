@@ -126,6 +126,32 @@ These results are generated from synthetic data and must not be interpreted as c
 
 ---
 
+## Sensitivity and Robustness Analyses
+
+The repository now includes a dedicated causal sensitivity-analysis stage implemented in:
+
+`scripts/03_sensitivity_analysis.py`
+
+Analyses include:
+- stabilized IPTW
+- 1st–99th percentile weight truncation
+- 5th–95th percentile weight truncation
+- propensity-score common-support restriction
+- alternative exposure-window analysis (0–30 vs 31–180 days), with the propensity-score model re-estimated for the changed treatment definition
+
+Across the weighting and overlap robustness checks, the synthetic result remains directionally consistent.
+
+![Sensitivity analysis risk ratios](figures/sensitivity_risk_ratios.svg)
+
+Detailed outputs:
+- `results/sensitivity_analysis.csv`
+- `results/sensitivity_diagnostics.csv`
+- `docs/sensitivity_analysis.md`
+
+The alternative 30-day exposure definition represents a different causal contrast and is therefore interpreted as a design sensitivity analysis rather than the exact same primary estimand.
+
+---
+
 ## External Control Arm Relevance
 
 Although this project is not itself a clinical-trial external control arm, it demonstrates several principles directly relevant to ECA development:
@@ -221,11 +247,15 @@ GLP1-Target-Trial-Emulation/
 │   └── 01_generate_synthetic_data.ipynb
 │
 ├── results/
-│   └── hta_results_summary.csv
+│   ├── hta_results_summary.csv
+│   ├── sensitivity_analysis.csv
+│   └── sensitivity_diagnostics.csv
 ├── docs/
-│   └── omop_mapping.md
+│   ├── omop_mapping.md
+│   └── sensitivity_analysis.md
 ├── scripts/
-│   └── 02_omop_transformation.py
+│   ├── 02_omop_transformation.py
+│   └── 03_sensitivity_analysis.py
 ├── omop_output/
 │   ├── README.md
 │   ├── person.csv
@@ -240,7 +270,8 @@ GLP1-Target-Trial-Emulation/
     ├── love_plot.svg
     ├── propensity_overlap.svg
     ├── iptw_distribution.svg
-    └── effect_estimates.svg
+    ├── effect_estimates.svg
+    └── sensitivity_risk_ratios.svg
 ```
 
 ---
@@ -262,6 +293,10 @@ GLP1-Target-Trial-Emulation/
 - Reproducible OMOP-inspired transformation script
 - Generated OMOP-inspired domain tables
 - OMOP output validation summary
+- Stabilized IPTW sensitivity analysis
+- Percentile-truncated IPTW sensitivity analyses
+- Propensity-score common-support restriction
+- Alternative exposure-window sensitivity analysis
 - Covariate-balance Love plot
 - Propensity-score overlap figure
 - IPTW weight-distribution figure
@@ -270,7 +305,6 @@ GLP1-Target-Trial-Emulation/
 ### Planned Extensions
 
 - External Control Arm demonstration
-- Sensitivity and robustness analyses
 - Additional pregnancy outcomes
 - Expanded HTA-oriented evidence outputs
 - Optional validated OHDSI vocabulary mapping
