@@ -1,13 +1,10 @@
 Diagnostic,Value
-Primary treatment prevalence (late),0.5585
-Early-group PS minimum,0.3298455327159215
-Early-group PS maximum,0.8301926878465564
-Late-group PS minimum,0.34036992863656124
-Late-group PS maximum,0.848381408044164
-Common-support lower bound,0.34036992863656124
-Common-support upper bound,0.8301926878465564
+Eligible records,1987
+Primary treatment prevalence (late),0.5591343734272773
+Common-support lower bound,0.34002220873033595
+Common-support upper bound,0.8365651024280087
 Patients excluded by common-support trimming,4
-Primary IPTW 1st percentile,1.278397134372902
-Primary IPTW 99th percentile,3.9789203088032905
-Primary IPTW 5th percentile,1.3725752773531503
-Primary IPTW 95th percentile,3.10277699181113
+Primary IPTW 1st percentile,1.2756180730112423
+Primary IPTW 99th percentile,4.018478284122272
+Primary IPTW 5th percentile,1.3696228720176153
+Primary IPTW 95th percentile,3.1026619965953532
