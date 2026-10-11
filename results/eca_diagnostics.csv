@@ -1,0 +1,15 @@
+Diagnostic,Value
+Index treated N after eligibility alignment,1111
+External control N after eligibility alignment,1500
+Index membership PS minimum - treated,0.18035748677903787
+Index membership PS maximum - treated,0.7917352357286186
+Index membership PS minimum - external,0.1488146437303852
+Index membership PS maximum - external,0.7600920152258702
+Common-support lower bound,0.18035748677903787
+Common-support upper bound,0.7600920152258702
+Index treated excluded by common-support restriction,3
+External controls excluded by common-support restriction,12
+External-control effective sample size after ATT weighting,1117.686019400521
+Maximum absolute SMD before weighting,0.34672794557222014
+Maximum absolute SMD after ATT weighting,0.03756373215487773
+Bootstrap repetitions,300
