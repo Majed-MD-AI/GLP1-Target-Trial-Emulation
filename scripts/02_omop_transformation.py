@@ -253,6 +253,11 @@ analysis_cohort = patients[[
 ]].rename(columns={"patient_id": "person_id"})
 
 analysis_cohort["conception_date"] = analysis_cohort["conception_date"].dt.date
+analysis_cohort["eligible_age_18_45"] = patients["age"].between(
+    18,
+    45,
+    inclusive="both",
+).astype(int).to_numpy()
 
 # ---------------------------------------------------------------------
 # Write outputs
