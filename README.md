@@ -144,11 +144,30 @@ These principles are important when constructing real-world comparison cohorts f
 
 ## OMOP and EHDS Relevance
 
-The project is designed to evolve toward an OMOP-inspired representation of clinical concepts and cohort definitions.
+An OMOP-inspired transformation layer is now included in the repository.
 
-OMOP-style standardization can support reproducible analyses across heterogeneous healthcare databases.
+The transformation decomposes the flat synthetic cohort into domain-specific tables representing:
 
-This is relevant to European real-world evidence workflows and the broader European Health Data Space ecosystem, where interoperable health data may support multi-database research and evidence generation.
+- PERSON
+- OBSERVATION_PERIOD
+- DRUG_EXPOSURE
+- CONDITION_OCCURRENCE
+- MEASUREMENT
+- OBSERVATION
+
+Study-specific derived variables such as treatment strategy, propensity score, and IPTW remain in a separate analysis cohort table.
+
+The transformation is implemented in:
+
+`scripts/02_omop_transformation.py`
+
+The source-to-domain mapping and scope limitations are documented in:
+
+`docs/omop_mapping.md`
+
+This is an **OMOP-inspired educational transformation**, not a validated production OMOP CDM ETL. Standard OHDSI vocabulary mapping has not yet been performed, and concept IDs remain placeholders.
+
+The EHDS connection remains methodological rather than an implemented data source: the project demonstrates transparent, interoperable RWE design principles that could support cross-database European evidence generation.
 
 ---
 
@@ -185,8 +204,17 @@ GLP1-Target-Trial-Emulation/
 ├── notebooks/
 │   └── 01_generate_synthetic_data.ipynb
 │
-└── results/
-    └── hta_results_summary.csv
+├── results/
+│   └── hta_results_summary.csv
+├── docs/
+│   └── omop_mapping.md
+├── scripts/
+│   └── 02_omop_transformation.py
+└── figures/
+    ├── love_plot.svg
+    ├── propensity_overlap.svg
+    ├── iptw_distribution.svg
+    └── effect_estimates.svg
 ```
 
 ---
@@ -204,13 +232,20 @@ GLP1-Target-Trial-Emulation/
 - Crude and adjusted treatment-effect estimation
 - Bootstrap confidence intervals
 - HTA-style results summary
+- OMOP-inspired source-to-domain mapping
+- Reproducible OMOP-inspired transformation script
+- Covariate-balance Love plot
+- Propensity-score overlap figure
+- IPTW weight-distribution figure
+- Crude vs IPTW-adjusted effect-estimate figure
 
 ### Planned Extensions
 
-- OMOP-inspired data transformation
 - External Control Arm demonstration
-- Sensitivity analyses
-- Additional HTA-oriented evidence outputs
+- Sensitivity and robustness analyses
+- Additional pregnancy outcomes
+- Expanded HTA-oriented evidence outputs
+- Optional validated OHDSI vocabulary mapping
 
 ---
 
