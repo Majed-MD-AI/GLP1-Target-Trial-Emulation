@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+<style>
+text{font-family:Arial,sans-serif;fill:#222}.title{font-size:24px;font-weight:700}.lab{font-size:16px}.axis{font-size:12px}.note{font-size:13px;fill:#555}
+.grid{stroke:#ddd;stroke-width:1}.null{stroke:#777;stroke-width:1.5;stroke-dasharray:6 5}.ci{stroke:#222;stroke-width:3}.pt{fill:#111}
+</style>
+<rect width="100%" height="100%" fill="white"/>
+<text x="220" y="34" class="title">Risk ratio: crude vs IPTW-adjusted estimate</text>
+<line x1="320" y1="70" x2="320" y2="300" class="null"/>
+<text x="325" y="60" class="axis">Null = 1.0</text><line x1="220" y1="70" x2="220" y2="300" class="grid"/>
+  <text x="220" y="324" text-anchor="middle" class="axis">0.8</text><line x1="320" y1="70" x2="320" y2="300" class="grid"/>
+  <text x="320" y="324" text-anchor="middle" class="axis">1.0</text><line x1="419.99999999999994" y1="70" x2="419.99999999999994" y2="300" class="grid"/>
+  <text x="419.99999999999994" y="324" text-anchor="middle" class="axis">1.2</text><line x1="520" y1="70" x2="520" y2="300" class="grid"/>
+  <text x="520" y="324" text-anchor="middle" class="axis">1.4</text><line x1="620" y1="70" x2="620" y2="300" class="grid"/>
+  <text x="620" y="324" text-anchor="middle" class="axis">1.6</text><line x1="720" y1="70" x2="720" y2="300" class="grid"/>
+  <text x="720" y="324" text-anchor="middle" class="axis">1.8</text><line x1="820" y1="70" x2="820" y2="300" class="grid"/>
+  <text x="820" y="324" text-anchor="middle" class="axis">2.0</text><text x="202" y="145" text-anchor="end" class="lab">Crude</text><circle cx="656.4000000000001" cy="140" r="7" class="pt"/>
+  <text x="828" y="145" class="lab">1.67</text><text x="202" y="235" text-anchor="end" class="lab">IPTW-adjusted</text><line x1="394.99999999999994" y1="230" x2="675" y2="230" class="ci"/>
+    <line x1="394.99999999999994" y1="222" x2="394.99999999999994" y2="238" class="ci"/>
+    <line x1="675" y1="222" x2="675" y2="238" class="ci"/><circle cx="515.3" cy="230" r="7" class="pt"/>
+  <text x="828" y="235" class="lab">1.39 (1.15–1.71)</text><text x="520" y="345" text-anchor="middle" class="lab">Risk ratio</text>
+<text x="220" y="345" class="note">Crude CI was not calculated in the current analysis.</text>
+</svg>
