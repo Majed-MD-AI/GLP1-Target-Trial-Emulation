@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="500" viewBox="0 0 920 500">
+<style>
+text{font-family:Arial,sans-serif;fill:#222}.title{font-size:24px;font-weight:700}.lab{font-size:15px}.axis{font-size:12px}.pt{fill:#111}.grid{stroke:#ddd;stroke-width:1}.null{stroke:#888;stroke-width:1.5;stroke-dasharray:6 5}.note{font-size:12px;fill:#555}
+</style><rect width="100%" height="100%" fill="white"/>
+<text x="250" y="34" class="title">Sensitivity analyses: adjusted risk ratios</text>
+<line x1="250" y1="60" x2="250" y2="440" class="null"/>
+<text x="256" y="54" class="axis">Null = 1.0</text><line x1="250" y1="70" x2="250" y2="440" class="grid"/>
+  <text x="250" y="464" text-anchor="middle" class="axis">1.0</text><line x1="357.27272727272737" y1="70" x2="357.27272727272737" y2="440" class="grid"/>
+  <text x="357.27272727272737" y="464" text-anchor="middle" class="axis">1.1</text><line x1="464.5454545454545" y1="70" x2="464.5454545454545" y2="440" class="grid"/>
+  <text x="464.5454545454545" y="464" text-anchor="middle" class="axis">1.2</text><line x1="571.8181818181819" y1="70" x2="571.8181818181819" y2="440" class="grid"/>
+  <text x="571.8181818181819" y="464" text-anchor="middle" class="axis">1.3</text><line x1="679.090909090909" y1="70" x2="679.090909090909" y2="440" class="grid"/>
+  <text x="679.090909090909" y="464" text-anchor="middle" class="axis">1.4</text><line x1="786.3636363636364" y1="70" x2="786.3636363636364" y2="440" class="grid"/>
+  <text x="786.3636363636364" y="464" text-anchor="middle" class="axis">1.5</text><text x="235" y="110" text-anchor="end" class="lab">Primary IPTW</text>
+  <circle cx="669.0072727272727" cy="105" r="7" class="pt"/>
+  <text x="681.0072727272727" y="110" class="lab">1.39</text><text x="235" y="165" text-anchor="end" class="lab">Stabilized IPTW</text>
+  <circle cx="669.0072727272727" cy="160" r="7" class="pt"/>
+  <text x="681.0072727272727" y="165" class="lab">1.39</text><text x="235" y="220" text-anchor="end" class="lab">Truncated 1st–99th</text>
+  <circle cx="687.8872727272726" cy="215" r="7" class="pt"/>
+  <text x="699.8872727272726" y="220" class="lab">1.41</text><text x="235" y="275" text-anchor="end" class="lab">Truncated 5th–95th</text>
+  <circle cx="741.5236363636362" cy="270" r="7" class="pt"/>
+  <text x="753.5236363636362" y="275" class="lab">1.46</text><text x="235" y="330" text-anchor="end" class="lab">Common-support trimmed</text>
+  <circle cx="661.6054545454544" cy="325" r="7" class="pt"/>
+  <text x="673.6054545454544" y="330" class="lab">1.38</text><text x="235" y="385" text-anchor="end" class="lab">Alternative 0–30 vs 31–180d</text>
+  <circle cx="469.4799999999999" cy="380" r="7" class="pt"/>
+  <text x="481.4799999999999" y="385" class="lab">1.20</text><text x="545" y="485" text-anchor="middle" class="lab">Adjusted risk ratio</text>
+<text x="250" y="465" class="note">Alternative 0–30 day analysis uses a different treatment definition and is not the same estimand.</text>
+</svg>
