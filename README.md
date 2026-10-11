@@ -171,6 +171,22 @@ The EHDS connection remains methodological rather than an implemented data sourc
 
 ---
 
+## Causal Diagnostics
+
+The repository includes visual diagnostics for the causal analysis:
+
+![Covariate balance Love plot](figures/love_plot.svg)
+
+![Propensity-score overlap](figures/propensity_overlap.svg)
+
+![IPTW weight distribution](figures/iptw_distribution.svg)
+
+![Crude versus IPTW-adjusted effect estimate](figures/effect_estimates.svg)
+
+These figures are based on the synthetic cohort and are intended to make confounding, overlap, weighting, and treatment-effect adjustment transparent.
+
+---
+
 ## HTA Evidence Generation
 
 The project emphasizes outputs that are useful in comparative-effectiveness and Health Technology Assessment workflows, including:
@@ -210,6 +226,16 @@ GLP1-Target-Trial-Emulation/
 │   └── omop_mapping.md
 ├── scripts/
 │   └── 02_omop_transformation.py
+├── omop_output/
+│   ├── README.md
+│   ├── person.csv
+│   ├── observation_period.csv
+│   ├── drug_exposure.csv
+│   ├── condition_occurrence.csv
+│   ├── measurement.csv
+│   ├── observation.csv
+│   ├── analysis_cohort.csv
+│   └── validation_summary.csv
 └── figures/
     ├── love_plot.svg
     ├── propensity_overlap.svg
@@ -234,6 +260,8 @@ GLP1-Target-Trial-Emulation/
 - HTA-style results summary
 - OMOP-inspired source-to-domain mapping
 - Reproducible OMOP-inspired transformation script
+- Generated OMOP-inspired domain tables
+- OMOP output validation summary
 - Covariate-balance Love plot
 - Propensity-score overlap figure
 - IPTW weight-distribution figure
