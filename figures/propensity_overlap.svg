@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450">
+<style>
+text{font-family:Arial,sans-serif;fill:#222}.title{font-size:24px;font-weight:700}.lab{font-size:14px}.axis{font-size:12px}
+.e{fill:#777;fill-opacity:.55}.l{fill:#111;fill-opacity:.35}.grid{stroke:#ddd;stroke-width:1}
+</style><rect width="100%" height="100%" fill="white"/>
+<text x="80" y="32" class="title">Propensity-score overlap by treatment strategy</text><line x1="80" y1="60" x2="80" y2="380" class="grid"/><text x="80" y="405" text-anchor="middle" class="axis">0.0</text><line x1="236" y1="60" x2="236" y2="380" class="grid"/><text x="236" y="405" text-anchor="middle" class="axis">0.2</text><line x1="392" y1="60" x2="392" y2="380" class="grid"/><text x="392" y="405" text-anchor="middle" class="axis">0.4</text><line x1="548" y1="60" x2="548" y2="380" class="grid"/><text x="548" y="405" text-anchor="middle" class="axis">0.6</text><line x1="704" y1="60" x2="704" y2="380" class="grid"/><text x="704" y="405" text-anchor="middle" class="axis">0.8</text><line x1="860" y1="60" x2="860" y2="380" class="grid"/><text x="860" y="405" text-anchor="middle" class="axis">1.0</text><line x1="80" y1="380" x2="860" y2="380" class="grid"/><text x="70" y="384" text-anchor="end" class="axis">0</text><line x1="80" y1="300" x2="860" y2="300" class="grid"/><text x="70" y="304" text-anchor="end" class="axis">53</text><line x1="80" y1="220" x2="860" y2="220" class="grid"/><text x="70" y="224" text-anchor="end" class="axis">106</text><line x1="80" y1="140" x2="860" y2="140" class="grid"/><text x="70" y="144" text-anchor="end" class="axis">158</text><line x1="80" y1="60" x2="860" y2="60" class="grid"/><text x="70" y="64" text-anchor="end" class="axis">211</text><rect x="81" y="380" width="37" height="0" class="e"/>
+ <rect x="81" y="380" width="37" height="0" class="l"/><rect x="120" y="380" width="37" height="0" class="e"/>
+ <rect x="120" y="380" width="37" height="0" class="l"/><rect x="159" y="380" width="37" height="0" class="e"/>
+ <rect x="159" y="380" width="37" height="0" class="l"/><rect x="198" y="380" width="37" height="0" class="e"/>
+ <rect x="198" y="380" width="37" height="0" class="l"/><rect x="237" y="380" width="37" height="0" class="e"/>
+ <rect x="237" y="380" width="37" height="0" class="l"/><rect x="276" y="380" width="37" height="0" class="e"/>
+ <rect x="276" y="380" width="37" height="0" class="l"/><rect x="315" y="375.45023696682466" width="37" height="4.549763033175355" class="e"/>
+ <rect x="315" y="375.45023696682466" width="37" height="4.549763033175355" class="l"/><rect x="354" y="269.28909952606637" width="37" height="110.71090047393366" class="e"/>
+ <rect x="354" y="322.3696682464455" width="37" height="57.6303317535545" class="l"/><rect x="393" y="82.74881516587675" width="37" height="297.25118483412325" class="e"/>
+ <rect x="393" y="173.7440758293839" width="37" height="206.2559241706161" class="l"/><rect x="432" y="111.563981042654" width="37" height="268.436018957346" class="e"/>
+ <rect x="432" y="126.72985781990522" width="37" height="253.27014218009478" class="l"/><rect x="471" y="235.92417061611374" width="37" height="144.07582938388626" class="e"/>
+ <rect x="471" y="207.10900473933648" width="37" height="172.89099526066352" class="l"/><rect x="510" y="272.3222748815166" width="37" height="107.67772511848341" class="e"/>
+ <rect x="510" y="226.82464454976304" width="37" height="153.17535545023696" class="l"/><rect x="549" y="213.17535545023696" width="37" height="166.82464454976304" class="e"/>
+ <rect x="549" y="105.49763033175356" width="37" height="274.50236966824644" class="l"/><rect x="588" y="238.957345971564" width="37" height="141.042654028436" class="e"/>
+ <rect x="588" y="60" width="37" height="320" class="l"/><rect x="627" y="308.7203791469194" width="37" height="71.27962085308057" class="e"/>
+ <rect x="627" y="223.7914691943128" width="37" height="156.2085308056872" class="l"/><rect x="666" y="360.2843601895735" width="37" height="19.715639810426538" class="e"/>
+ <rect x="666" y="296.5876777251185" width="37" height="83.41232227488152" class="l"/><rect x="705" y="372.41706161137444" width="37" height="7.582938388625592" class="e"/>
+ <rect x="705" y="367.86729857819904" width="37" height="12.132701421800949" class="l"/><rect x="744" y="380" width="37" height="0" class="e"/>
+ <rect x="744" y="380" width="37" height="0" class="l"/><rect x="783" y="380" width="37" height="0" class="e"/>
+ <rect x="783" y="380" width="37" height="0" class="l"/><rect x="822" y="380" width="37" height="0" class="e"/>
+ <rect x="822" y="380" width="37" height="0" class="l"/><text x="470" y="432" text-anchor="middle" class="lab">Propensity score for late discontinuation</text>
+<text x="20" y="220" transform="rotate(-90 20 220)" text-anchor="middle" class="lab">Patient count</text>
+<rect x="600" y="20" width="18" height="12" class="e"/><text x="625" y="31" class="lab">Early discontinuation</text>
+<rect x="755" y="20" width="18" height="12" class="l"/><text x="780" y="31" class="lab">Late discontinuation</text>
+</svg>
