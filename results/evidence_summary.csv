@@ -1,0 +1,9 @@
+Component,Status,Key output
+Primary target trial,Completed,"Eligibility-aligned IPTW estimate; RD 5.49 pp; RR 1.38"
+Eligibility audit,Completed,"1,987 eligible of 2,000 source records"
+Sensitivity analyses,Completed,"Stabilized/truncated IPTW; common support; alternative exposure window"
+External Control Arm,Completed,"ATT-weighted synthetic external comparator; RR 1.42"
+Pregnancy safety outcomes,Completed,"Preeclampsia; SGA; LGA; congenital malformation"
+OMOP-inspired transformation,Completed,"Domain-specific generated tables plus validation"
+EHDS framing,Completed,"Interoperability framing only; no EHDS data"
+HTA-oriented evidence package,Completed,"Integrated evidence summary with assumptions and limitations"
