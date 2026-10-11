@@ -1,0 +1,6 @@
+Metric,Value
+Source records,2000
+Eligible analysis records,1987
+Excluded for age <18,6
+Excluded for age >45,7
+Total age-ineligible records,13
