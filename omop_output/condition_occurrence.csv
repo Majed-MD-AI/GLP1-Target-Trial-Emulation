@@ -1,0 +1,1795 @@
+condition_occurrence_id,person_id,condition_concept_id,condition_start_date,condition_start_datetime,condition_end_date,condition_end_datetime,condition_type_concept_id,condition_status_concept_id,stop_reason,provider_id,visit_occurrence_id,visit_detail_id,condition_source_value,condition_source_concept_id,condition_status_source_value
+1,3,0,2024-12-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+2,3,0,2025-09-05,,,,0,0,,,,,Preterm birth,0,study outcome
+3,5,0,2024-12-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+4,9,0,2024-07-13,,,,0,0,,,,,History of preterm birth,0,baseline history
+5,11,0,2024-12-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+6,15,0,2024-12-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+7,15,0,2024-07-19,,,,0,0,,,,,History of preterm birth,0,baseline history
+8,15,0,2025-09-17,,,,0,0,,,,,Preterm birth,0,study outcome
+9,17,0,2024-12-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+10,19,0,2024-07-23,,,,0,0,,,,,History of preterm birth,0,baseline history
+11,20,0,2024-12-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+12,21,0,2024-12-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+13,25,0,2024-12-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+14,25,0,2024-12-26,,,,0,0,,,,,Hypertension,0,baseline confounder
+15,25,0,2025-09-27,,,,0,0,,,,,Preterm birth,0,study outcome
+16,28,0,2024-12-29,,,,0,0,,,,,Hypertension,0,baseline confounder
+17,28,0,2024-08-01,,,,0,0,,,,,History of preterm birth,0,baseline history
+18,30,0,2024-12-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+19,31,0,2025-01-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+20,31,0,2025-01-01,,,,0,0,,,,,Hypertension,0,baseline confounder
+21,37,0,2025-01-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+22,37,0,2025-01-07,,,,0,0,,,,,Hypertension,0,baseline confounder
+23,38,0,2025-01-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+24,38,0,2025-10-10,,,,0,0,,,,,Preterm birth,0,study outcome
+25,39,0,2025-01-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+26,40,0,2025-01-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+27,40,0,2025-01-10,,,,0,0,,,,,Hypertension,0,baseline confounder
+28,40,0,2025-10-12,,,,0,0,,,,,Preterm birth,0,study outcome
+29,41,0,2025-01-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+30,42,0,2025-01-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+31,44,0,2025-01-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+32,44,0,2025-01-14,,,,0,0,,,,,Hypertension,0,baseline confounder
+33,45,0,2025-01-15,,,,0,0,,,,,Hypertension,0,baseline confounder
+34,45,0,2024-08-18,,,,0,0,,,,,History of preterm birth,0,baseline history
+35,47,0,2025-01-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+36,49,0,2025-01-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+37,50,0,2025-01-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+38,52,0,2025-01-22,,,,0,0,,,,,Hypertension,0,baseline confounder
+39,53,0,2025-01-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+40,54,0,2025-01-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+41,54,0,2025-10-26,,,,0,0,,,,,Preterm birth,0,study outcome
+42,55,0,2025-10-27,,,,0,0,,,,,Preterm birth,0,study outcome
+43,58,0,2025-01-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+44,58,0,2025-01-28,,,,0,0,,,,,Hypertension,0,baseline confounder
+45,59,0,2025-01-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+46,63,0,2025-02-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+47,65,0,2025-02-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+48,65,0,2025-02-04,,,,0,0,,,,,Hypertension,0,baseline confounder
+49,65,0,2025-11-06,,,,0,0,,,,,Preterm birth,0,study outcome
+50,67,0,2025-02-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+51,68,0,2025-02-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+52,68,0,2024-09-10,,,,0,0,,,,,History of preterm birth,0,baseline history
+53,69,0,2025-02-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+54,69,0,2025-02-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+55,70,0,2024-09-12,,,,0,0,,,,,History of preterm birth,0,baseline history
+56,71,0,2025-02-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+57,71,0,2025-11-12,,,,0,0,,,,,Preterm birth,0,study outcome
+58,72,0,2025-02-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+59,73,0,2025-02-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+60,73,0,2025-11-14,,,,0,0,,,,,Preterm birth,0,study outcome
+61,74,0,2025-02-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+62,75,0,2025-02-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+63,76,0,2025-02-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+64,77,0,2025-02-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+65,81,0,2025-02-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+66,81,0,2025-02-20,,,,0,0,,,,,Hypertension,0,baseline confounder
+67,82,0,2025-02-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+68,82,0,2025-02-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+69,83,0,2025-02-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+70,84,0,2025-02-23,,,,0,0,,,,,Hypertension,0,baseline confounder
+71,85,0,2024-09-27,,,,0,0,,,,,History of preterm birth,0,baseline history
+72,86,0,2025-02-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+73,89,0,2025-02-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+74,94,0,2025-03-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+75,95,0,2025-03-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+76,98,0,2025-03-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+77,100,0,2025-03-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+78,100,0,2025-03-11,,,,0,0,,,,,Hypertension,0,baseline confounder
+79,101,0,2024-10-13,,,,0,0,,,,,History of preterm birth,0,baseline history
+80,103,0,2024-10-15,,,,0,0,,,,,History of preterm birth,0,baseline history
+81,104,0,2025-03-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+82,105,0,2025-03-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+83,105,0,2025-03-16,,,,0,0,,,,,Hypertension,0,baseline confounder
+84,106,0,2024-10-18,,,,0,0,,,,,History of preterm birth,0,baseline history
+85,108,0,2025-03-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+86,110,0,2025-03-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+87,110,0,2024-10-22,,,,0,0,,,,,History of preterm birth,0,baseline history
+88,112,0,2025-03-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+89,112,0,2025-12-23,,,,0,0,,,,,Preterm birth,0,study outcome
+90,113,0,2025-03-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+91,113,0,2025-12-24,,,,0,0,,,,,Preterm birth,0,study outcome
+92,114,0,2025-03-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+93,114,0,2025-03-25,,,,0,0,,,,,Hypertension,0,baseline confounder
+94,114,0,2024-10-26,,,,0,0,,,,,History of preterm birth,0,baseline history
+95,115,0,2025-03-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+96,117,0,2025-03-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+97,120,0,2025-03-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+98,120,0,2025-12-31,,,,0,0,,,,,Preterm birth,0,study outcome
+99,121,0,2025-04-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+100,122,0,2025-04-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+101,123,0,2025-04-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+102,124,0,2025-04-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+103,125,0,2025-04-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+104,127,0,2025-04-07,,,,0,0,,,,,Hypertension,0,baseline confounder
+105,128,0,2025-04-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+106,128,0,2024-11-09,,,,0,0,,,,,History of preterm birth,0,baseline history
+107,128,0,2026-01-08,,,,0,0,,,,,Preterm birth,0,study outcome
+108,130,0,2025-04-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+109,131,0,2025-04-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+110,132,0,2025-04-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+111,133,0,2025-04-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+112,133,0,2025-04-13,,,,0,0,,,,,Hypertension,0,baseline confounder
+113,133,0,2024-11-14,,,,0,0,,,,,History of preterm birth,0,baseline history
+114,133,0,2026-01-13,,,,0,0,,,,,Preterm birth,0,study outcome
+115,134,0,2024-11-15,,,,0,0,,,,,History of preterm birth,0,baseline history
+116,134,0,2026-01-14,,,,0,0,,,,,Preterm birth,0,study outcome
+117,135,0,2025-04-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+118,137,0,2025-04-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+119,139,0,2025-04-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+120,142,0,2025-04-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+121,144,0,2025-04-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+122,146,0,2025-04-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+123,146,0,2026-01-26,,,,0,0,,,,,Preterm birth,0,study outcome
+124,147,0,2025-04-27,,,,0,0,,,,,Hypertension,0,baseline confounder
+125,148,0,2025-04-28,,,,0,0,,,,,Hypertension,0,baseline confounder
+126,149,0,2025-04-29,,,,0,0,,,,,Hypertension,0,baseline confounder
+127,149,0,2026-01-29,,,,0,0,,,,,Preterm birth,0,study outcome
+128,151,0,2026-01-31,,,,0,0,,,,,Preterm birth,0,study outcome
+129,152,0,2024-12-03,,,,0,0,,,,,History of preterm birth,0,baseline history
+130,153,0,2025-05-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+131,154,0,2025-05-04,,,,0,0,,,,,Hypertension,0,baseline confounder
+132,155,0,2025-05-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+133,155,0,2025-05-05,,,,0,0,,,,,Hypertension,0,baseline confounder
+134,156,0,2025-05-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+135,156,0,2024-12-07,,,,0,0,,,,,History of preterm birth,0,baseline history
+136,157,0,2025-05-07,,,,0,0,,,,,Hypertension,0,baseline confounder
+137,158,0,2025-05-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+138,159,0,2025-05-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+139,161,0,2025-05-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+140,165,0,2025-05-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+141,166,0,2025-05-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+142,166,0,2025-05-16,,,,0,0,,,,,Hypertension,0,baseline confounder
+143,169,0,2025-05-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+144,169,0,2025-05-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+145,170,0,2025-05-20,,,,0,0,,,,,Hypertension,0,baseline confounder
+146,172,0,2025-05-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+147,173,0,2025-05-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+148,174,0,2025-05-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+149,175,0,2025-05-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+150,176,0,2025-05-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+151,176,0,2025-05-26,,,,0,0,,,,,Hypertension,0,baseline confounder
+152,178,0,2025-05-28,,,,0,0,,,,,Hypertension,0,baseline confounder
+153,178,0,2026-02-27,,,,0,0,,,,,Preterm birth,0,study outcome
+154,179,0,2025-05-29,,,,0,0,,,,,Hypertension,0,baseline confounder
+155,180,0,2025-05-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+156,180,0,2025-05-30,,,,0,0,,,,,Hypertension,0,baseline confounder
+157,180,0,2026-03-01,,,,0,0,,,,,Preterm birth,0,study outcome
+158,181,0,2025-05-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+159,181,0,2026-03-02,,,,0,0,,,,,Preterm birth,0,study outcome
+160,182,0,2025-06-01,,,,0,0,,,,,Hypertension,0,baseline confounder
+161,182,0,2025-01-02,,,,0,0,,,,,History of preterm birth,0,baseline history
+162,182,0,2026-03-03,,,,0,0,,,,,Preterm birth,0,study outcome
+163,183,0,2025-06-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+164,183,0,2026-03-04,,,,0,0,,,,,Preterm birth,0,study outcome
+165,184,0,2025-01-04,,,,0,0,,,,,History of preterm birth,0,baseline history
+166,188,0,2025-06-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+167,190,0,2025-06-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+168,191,0,2025-06-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+169,193,0,2025-06-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+170,193,0,2025-06-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+171,194,0,2026-03-15,,,,0,0,,,,,Preterm birth,0,study outcome
+172,197,0,2025-06-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+173,197,0,2025-01-17,,,,0,0,,,,,History of preterm birth,0,baseline history
+174,200,0,2025-06-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+175,202,0,2025-06-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+176,204,0,2025-06-23,,,,0,0,,,,,Hypertension,0,baseline confounder
+177,207,0,2025-06-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+178,207,0,2026-03-28,,,,0,0,,,,,Preterm birth,0,study outcome
+179,208,0,2026-03-29,,,,0,0,,,,,Preterm birth,0,study outcome
+180,209,0,2025-06-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+181,211,0,2025-01-31,,,,0,0,,,,,History of preterm birth,0,baseline history
+182,211,0,2026-04-01,,,,0,0,,,,,Preterm birth,0,study outcome
+183,212,0,2025-07-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+184,214,0,2025-07-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+185,215,0,2025-07-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+186,215,0,2025-02-04,,,,0,0,,,,,History of preterm birth,0,baseline history
+187,215,0,2026-04-05,,,,0,0,,,,,Preterm birth,0,study outcome
+188,217,0,2025-07-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+189,218,0,2025-07-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+190,218,0,2025-07-07,,,,0,0,,,,,Hypertension,0,baseline confounder
+191,223,0,2025-07-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+192,224,0,2025-07-13,,,,0,0,,,,,Hypertension,0,baseline confounder
+193,226,0,2025-07-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+194,229,0,2025-07-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+195,231,0,2025-07-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+196,231,0,2026-04-21,,,,0,0,,,,,Preterm birth,0,study outcome
+197,232,0,2025-07-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+198,232,0,2025-07-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+199,234,0,2025-07-23,,,,0,0,,,,,Hypertension,0,baseline confounder
+200,235,0,2025-07-24,,,,0,0,,,,,Hypertension,0,baseline confounder
+201,235,0,2025-02-24,,,,0,0,,,,,History of preterm birth,0,baseline history
+202,236,0,2026-04-26,,,,0,0,,,,,Preterm birth,0,study outcome
+203,237,0,2025-07-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+204,238,0,2025-07-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+205,239,0,2025-07-28,,,,0,0,,,,,Hypertension,0,baseline confounder
+206,239,0,2026-04-29,,,,0,0,,,,,Preterm birth,0,study outcome
+207,240,0,2025-07-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+208,241,0,2025-07-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+209,242,0,2025-07-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+210,242,0,2025-03-03,,,,0,0,,,,,History of preterm birth,0,baseline history
+211,243,0,2025-03-04,,,,0,0,,,,,History of preterm birth,0,baseline history
+212,244,0,2025-08-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+213,244,0,2026-05-04,,,,0,0,,,,,Preterm birth,0,study outcome
+214,246,0,2025-08-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+215,246,0,2026-05-06,,,,0,0,,,,,Preterm birth,0,study outcome
+216,247,0,2026-05-07,,,,0,0,,,,,Preterm birth,0,study outcome
+217,248,0,2025-08-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+218,248,0,2025-08-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+219,248,0,2025-03-09,,,,0,0,,,,,History of preterm birth,0,baseline history
+220,252,0,2025-08-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+221,253,0,2025-03-14,,,,0,0,,,,,History of preterm birth,0,baseline history
+222,254,0,2025-08-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+223,258,0,2026-05-18,,,,0,0,,,,,Preterm birth,0,study outcome
+224,260,0,2025-08-18,,,,0,0,,,,,Hypertension,0,baseline confounder
+225,261,0,2025-08-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+226,263,0,2025-08-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+227,264,0,2025-08-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+228,266,0,2025-08-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+229,266,0,2026-05-26,,,,0,0,,,,,Preterm birth,0,study outcome
+230,267,0,2025-08-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+231,269,0,2025-08-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+232,269,0,2025-08-27,,,,0,0,,,,,Hypertension,0,baseline confounder
+233,270,0,2025-08-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+234,272,0,2026-06-01,,,,0,0,,,,,Preterm birth,0,study outcome
+235,273,0,2025-08-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+236,274,0,2025-04-04,,,,0,0,,,,,History of preterm birth,0,baseline history
+237,275,0,2025-04-05,,,,0,0,,,,,History of preterm birth,0,baseline history
+238,278,0,2025-09-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+239,278,0,2025-09-05,,,,0,0,,,,,Hypertension,0,baseline confounder
+240,279,0,2025-09-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+241,280,0,2025-09-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+242,284,0,2026-06-13,,,,0,0,,,,,Preterm birth,0,study outcome
+243,285,0,2025-09-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+244,286,0,2025-09-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+245,286,0,2025-09-13,,,,0,0,,,,,Hypertension,0,baseline confounder
+246,286,0,2025-04-16,,,,0,0,,,,,History of preterm birth,0,baseline history
+247,286,0,2026-06-15,,,,0,0,,,,,Preterm birth,0,study outcome
+248,287,0,2025-09-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+249,288,0,2025-09-15,,,,0,0,,,,,Hypertension,0,baseline confounder
+250,289,0,2025-09-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+251,292,0,2025-09-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+252,292,0,2025-09-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+253,294,0,2025-09-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+254,295,0,2025-09-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+255,296,0,2025-04-26,,,,0,0,,,,,History of preterm birth,0,baseline history
+256,297,0,2025-09-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+257,297,0,2026-06-26,,,,0,0,,,,,Preterm birth,0,study outcome
+258,298,0,2025-09-25,,,,0,0,,,,,Hypertension,0,baseline confounder
+259,298,0,2025-04-28,,,,0,0,,,,,History of preterm birth,0,baseline history
+260,298,0,2026-06-27,,,,0,0,,,,,Preterm birth,0,study outcome
+261,299,0,2025-04-29,,,,0,0,,,,,History of preterm birth,0,baseline history
+262,302,0,2025-09-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+263,303,0,2025-05-03,,,,0,0,,,,,History of preterm birth,0,baseline history
+264,304,0,2025-10-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+265,304,0,2026-07-03,,,,0,0,,,,,Preterm birth,0,study outcome
+266,305,0,2025-10-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+267,305,0,2026-07-04,,,,0,0,,,,,Preterm birth,0,study outcome
+268,306,0,2026-07-05,,,,0,0,,,,,Preterm birth,0,study outcome
+269,307,0,2025-10-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+270,308,0,2026-07-07,,,,0,0,,,,,Preterm birth,0,study outcome
+271,311,0,2025-10-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+272,313,0,2025-10-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+273,315,0,2026-07-14,,,,0,0,,,,,Preterm birth,0,study outcome
+274,316,0,2025-10-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+275,316,0,2025-10-13,,,,0,0,,,,,Hypertension,0,baseline confounder
+276,317,0,2025-10-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+277,317,0,2025-05-17,,,,0,0,,,,,History of preterm birth,0,baseline history
+278,318,0,2025-10-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+279,318,0,2026-07-17,,,,0,0,,,,,Preterm birth,0,study outcome
+280,320,0,2025-10-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+281,321,0,2025-10-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+282,321,0,2025-10-18,,,,0,0,,,,,Hypertension,0,baseline confounder
+283,322,0,2025-10-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+284,323,0,2025-10-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+285,326,0,2025-10-23,,,,0,0,,,,,Hypertension,0,baseline confounder
+286,328,0,2025-10-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+287,330,0,2025-10-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+288,331,0,2025-10-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+289,331,0,2026-07-30,,,,0,0,,,,,Preterm birth,0,study outcome
+290,334,0,2025-10-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+291,334,0,2026-08-02,,,,0,0,,,,,Preterm birth,0,study outcome
+292,335,0,2025-11-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+293,336,0,2025-11-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+294,339,0,2025-11-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+295,339,0,2026-08-07,,,,0,0,,,,,Preterm birth,0,study outcome
+296,341,0,2025-11-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+297,342,0,2025-11-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+298,343,0,2026-08-11,,,,0,0,,,,,Preterm birth,0,study outcome
+299,345,0,2025-06-14,,,,0,0,,,,,History of preterm birth,0,baseline history
+300,349,0,2026-08-17,,,,0,0,,,,,Preterm birth,0,study outcome
+301,350,0,2026-08-18,,,,0,0,,,,,Preterm birth,0,study outcome
+302,351,0,2025-11-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+303,351,0,2025-06-20,,,,0,0,,,,,History of preterm birth,0,baseline history
+304,351,0,2026-08-19,,,,0,0,,,,,Preterm birth,0,study outcome
+305,353,0,2026-08-21,,,,0,0,,,,,Preterm birth,0,study outcome
+306,354,0,2025-11-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+307,354,0,2026-08-22,,,,0,0,,,,,Preterm birth,0,study outcome
+308,355,0,2025-11-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+309,357,0,2025-11-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+310,358,0,2025-11-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+311,359,0,2025-11-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+312,359,0,2026-08-27,,,,0,0,,,,,Preterm birth,0,study outcome
+313,361,0,2025-11-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+314,361,0,2025-06-30,,,,0,0,,,,,History of preterm birth,0,baseline history
+315,361,0,2026-08-29,,,,0,0,,,,,Preterm birth,0,study outcome
+316,363,0,2025-11-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+317,364,0,2025-11-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+318,364,0,2025-11-30,,,,0,0,,,,,Hypertension,0,baseline confounder
+319,364,0,2026-09-01,,,,0,0,,,,,Preterm birth,0,study outcome
+320,366,0,2024-12-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+321,366,0,2024-07-05,,,,0,0,,,,,History of preterm birth,0,baseline history
+322,368,0,2024-12-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+323,370,0,2025-09-07,,,,0,0,,,,,Preterm birth,0,study outcome
+324,372,0,2024-12-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+325,375,0,2025-09-12,,,,0,0,,,,,Preterm birth,0,study outcome
+326,376,0,2024-12-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+327,383,0,2024-12-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+328,383,0,2024-12-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+329,383,0,2024-07-22,,,,0,0,,,,,History of preterm birth,0,baseline history
+330,383,0,2025-09-20,,,,0,0,,,,,Preterm birth,0,study outcome
+331,384,0,2024-12-20,,,,0,0,,,,,Hypertension,0,baseline confounder
+332,386,0,2025-09-23,,,,0,0,,,,,Preterm birth,0,study outcome
+333,387,0,2024-12-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+334,387,0,2024-07-26,,,,0,0,,,,,History of preterm birth,0,baseline history
+335,387,0,2025-09-24,,,,0,0,,,,,Preterm birth,0,study outcome
+336,388,0,2024-12-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+337,389,0,2024-12-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+338,391,0,2024-12-27,,,,0,0,,,,,Hypertension,0,baseline confounder
+339,395,0,2024-12-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+340,395,0,2024-12-31,,,,0,0,,,,,Hypertension,0,baseline confounder
+341,395,0,2025-10-02,,,,0,0,,,,,Preterm birth,0,study outcome
+342,396,0,2025-01-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+343,397,0,2025-01-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+344,399,0,2025-01-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+345,399,0,2025-01-04,,,,0,0,,,,,Hypertension,0,baseline confounder
+346,399,0,2025-10-06,,,,0,0,,,,,Preterm birth,0,study outcome
+347,401,0,2025-01-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+348,401,0,2024-08-09,,,,0,0,,,,,History of preterm birth,0,baseline history
+349,402,0,2025-01-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+350,406,0,2025-01-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+351,407,0,2025-01-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+352,407,0,2025-01-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+353,407,0,2025-10-14,,,,0,0,,,,,Preterm birth,0,study outcome
+354,409,0,2025-01-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+355,412,0,2025-01-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+356,413,0,2025-01-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+357,414,0,2025-01-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+358,416,0,2025-01-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+359,416,0,2025-01-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+360,417,0,2025-01-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+361,418,0,2025-01-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+362,418,0,2025-01-23,,,,0,0,,,,,Hypertension,0,baseline confounder
+363,419,0,2024-08-27,,,,0,0,,,,,History of preterm birth,0,baseline history
+364,420,0,2025-01-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+365,421,0,2025-01-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+366,423,0,2025-01-28,,,,0,0,,,,,Hypertension,0,baseline confounder
+367,425,0,2025-01-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+368,426,0,2025-01-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+369,426,0,2025-01-31,,,,0,0,,,,,Hypertension,0,baseline confounder
+370,427,0,2025-02-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+371,428,0,2025-02-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+372,428,0,2024-09-05,,,,0,0,,,,,History of preterm birth,0,baseline history
+373,428,0,2025-11-04,,,,0,0,,,,,Preterm birth,0,study outcome
+374,430,0,2025-02-04,,,,0,0,,,,,Hypertension,0,baseline confounder
+375,434,0,2025-02-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+376,434,0,2025-11-10,,,,0,0,,,,,Preterm birth,0,study outcome
+377,438,0,2025-02-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+378,438,0,2025-11-14,,,,0,0,,,,,Preterm birth,0,study outcome
+379,439,0,2025-02-13,,,,0,0,,,,,Hypertension,0,baseline confounder
+380,439,0,2025-11-15,,,,0,0,,,,,Preterm birth,0,study outcome
+381,440,0,2025-02-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+382,440,0,2025-02-14,,,,0,0,,,,,Hypertension,0,baseline confounder
+383,441,0,2025-02-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+384,442,0,2025-02-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+385,444,0,2025-02-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+386,444,0,2025-02-18,,,,0,0,,,,,Hypertension,0,baseline confounder
+387,445,0,2025-02-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+388,445,0,2025-11-21,,,,0,0,,,,,Preterm birth,0,study outcome
+389,446,0,2025-02-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+390,448,0,2025-02-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+391,449,0,2025-02-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+392,450,0,2025-02-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+393,451,0,2025-02-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+394,455,0,2025-03-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+395,455,0,2025-12-01,,,,0,0,,,,,Preterm birth,0,study outcome
+396,459,0,2024-10-06,,,,0,0,,,,,History of preterm birth,0,baseline history
+397,460,0,2025-12-06,,,,0,0,,,,,Preterm birth,0,study outcome
+398,461,0,2025-03-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+399,461,0,2024-10-08,,,,0,0,,,,,History of preterm birth,0,baseline history
+400,461,0,2025-12-07,,,,0,0,,,,,Preterm birth,0,study outcome
+401,462,0,2025-03-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+402,463,0,2025-03-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+403,465,0,2024-10-12,,,,0,0,,,,,History of preterm birth,0,baseline history
+404,465,0,2025-12-11,,,,0,0,,,,,Preterm birth,0,study outcome
+405,466,0,2025-03-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+406,470,0,2025-03-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+407,471,0,2025-03-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+408,472,0,2025-03-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+409,472,0,2025-03-18,,,,0,0,,,,,Hypertension,0,baseline confounder
+410,473,0,2025-03-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+411,473,0,2025-12-19,,,,0,0,,,,,Preterm birth,0,study outcome
+412,475,0,2025-12-21,,,,0,0,,,,,Preterm birth,0,study outcome
+413,476,0,2024-10-23,,,,0,0,,,,,History of preterm birth,0,baseline history
+414,477,0,2025-03-23,,,,0,0,,,,,Hypertension,0,baseline confounder
+415,478,0,2024-10-25,,,,0,0,,,,,History of preterm birth,0,baseline history
+416,478,0,2025-12-24,,,,0,0,,,,,Preterm birth,0,study outcome
+417,479,0,2025-03-25,,,,0,0,,,,,Hypertension,0,baseline confounder
+418,479,0,2025-12-25,,,,0,0,,,,,Preterm birth,0,study outcome
+419,481,0,2025-03-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+420,482,0,2025-03-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+421,483,0,2025-03-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+422,484,0,2025-03-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+423,486,0,2025-04-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+424,488,0,2025-04-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+425,488,0,2025-04-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+426,490,0,2025-04-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+427,493,0,2025-04-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+428,494,0,2025-04-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+429,495,0,2025-04-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+430,495,0,2025-04-10,,,,0,0,,,,,Hypertension,0,baseline confounder
+431,496,0,2025-04-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+432,497,0,2025-04-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+433,497,0,2025-04-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+434,498,0,2025-04-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+435,499,0,2025-04-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+436,501,0,2025-04-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+437,501,0,2026-01-16,,,,0,0,,,,,Preterm birth,0,study outcome
+438,502,0,2025-04-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+439,503,0,2025-04-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+440,503,0,2026-01-18,,,,0,0,,,,,Preterm birth,0,study outcome
+441,505,0,2025-04-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+442,506,0,2025-04-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+443,506,0,2024-11-22,,,,0,0,,,,,History of preterm birth,0,baseline history
+444,507,0,2025-04-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+445,507,0,2025-04-22,,,,0,0,,,,,Hypertension,0,baseline confounder
+446,508,0,2026-01-23,,,,0,0,,,,,Preterm birth,0,study outcome
+447,511,0,2025-04-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+448,512,0,2025-04-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+449,517,0,2025-05-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+450,518,0,2025-05-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+451,520,0,2025-05-05,,,,0,0,,,,,Hypertension,0,baseline confounder
+452,521,0,2026-02-05,,,,0,0,,,,,Preterm birth,0,study outcome
+453,522,0,2025-05-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+454,522,0,2025-05-07,,,,0,0,,,,,Hypertension,0,baseline confounder
+455,522,0,2026-02-06,,,,0,0,,,,,Preterm birth,0,study outcome
+456,524,0,2025-05-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+457,524,0,2026-02-08,,,,0,0,,,,,Preterm birth,0,study outcome
+458,526,0,2025-05-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+459,527,0,2025-05-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+460,527,0,2025-05-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+461,528,0,2025-05-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+462,528,0,2026-02-12,,,,0,0,,,,,Preterm birth,0,study outcome
+463,531,0,2024-12-17,,,,0,0,,,,,History of preterm birth,0,baseline history
+464,532,0,2025-05-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+465,532,0,2025-05-17,,,,0,0,,,,,Hypertension,0,baseline confounder
+466,534,0,2025-05-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+467,535,0,2025-05-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+468,536,0,2025-05-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+469,536,0,2026-02-20,,,,0,0,,,,,Preterm birth,0,study outcome
+470,539,0,2024-12-25,,,,0,0,,,,,History of preterm birth,0,baseline history
+471,540,0,2025-05-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+472,541,0,2025-05-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+473,541,0,2025-05-26,,,,0,0,,,,,Hypertension,0,baseline confounder
+474,541,0,2026-02-25,,,,0,0,,,,,Preterm birth,0,study outcome
+475,542,0,2024-12-28,,,,0,0,,,,,History of preterm birth,0,baseline history
+476,544,0,2025-05-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+477,545,0,2025-05-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+478,547,0,2025-06-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+479,547,0,2025-06-01,,,,0,0,,,,,Hypertension,0,baseline confounder
+480,547,0,2025-01-02,,,,0,0,,,,,History of preterm birth,0,baseline history
+481,549,0,2025-06-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+482,550,0,2025-06-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+483,551,0,2025-06-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+484,552,0,2025-06-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+485,554,0,2025-06-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+486,555,0,2025-06-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+487,557,0,2025-06-11,,,,0,0,,,,,Hypertension,0,baseline confounder
+488,559,0,2025-06-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+489,559,0,2025-01-14,,,,0,0,,,,,History of preterm birth,0,baseline history
+490,559,0,2026-03-15,,,,0,0,,,,,Preterm birth,0,study outcome
+491,560,0,2025-06-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+492,560,0,2025-01-15,,,,0,0,,,,,History of preterm birth,0,baseline history
+493,562,0,2025-06-16,,,,0,0,,,,,Hypertension,0,baseline confounder
+494,562,0,2026-03-18,,,,0,0,,,,,Preterm birth,0,study outcome
+495,565,0,2025-06-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+496,566,0,2025-06-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+497,569,0,2025-06-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+498,569,0,2025-01-24,,,,0,0,,,,,History of preterm birth,0,baseline history
+499,570,0,2025-06-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+500,573,0,2025-06-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+501,576,0,2025-06-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+502,577,0,2025-07-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+503,577,0,2026-04-02,,,,0,0,,,,,Preterm birth,0,study outcome
+504,578,0,2025-07-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+505,579,0,2025-07-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+506,580,0,2025-07-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+507,582,0,2025-07-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+508,585,0,2025-07-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+509,585,0,2025-02-09,,,,0,0,,,,,History of preterm birth,0,baseline history
+510,585,0,2026-04-10,,,,0,0,,,,,Preterm birth,0,study outcome
+511,586,0,2025-07-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+512,586,0,2025-02-10,,,,0,0,,,,,History of preterm birth,0,baseline history
+513,586,0,2026-04-11,,,,0,0,,,,,Preterm birth,0,study outcome
+514,587,0,2025-07-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+515,588,0,2025-07-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+516,590,0,2025-02-14,,,,0,0,,,,,History of preterm birth,0,baseline history
+517,590,0,2026-04-15,,,,0,0,,,,,Preterm birth,0,study outcome
+518,591,0,2025-07-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+519,592,0,2025-07-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+520,593,0,2025-07-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+521,594,0,2025-07-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+522,595,0,2025-07-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+523,596,0,2025-07-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+524,597,0,2025-07-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+525,598,0,2025-07-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+526,599,0,2025-07-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+527,601,0,2025-07-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+528,601,0,2025-07-25,,,,0,0,,,,,Hypertension,0,baseline confounder
+529,602,0,2025-02-26,,,,0,0,,,,,History of preterm birth,0,baseline history
+530,603,0,2025-07-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+531,605,0,2025-07-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+532,606,0,2025-07-30,,,,0,0,,,,,Hypertension,0,baseline confounder
+533,606,0,2026-05-01,,,,0,0,,,,,Preterm birth,0,study outcome
+534,607,0,2025-07-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+535,609,0,2025-08-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+536,610,0,2026-05-05,,,,0,0,,,,,Preterm birth,0,study outcome
+537,611,0,2025-08-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+538,613,0,2025-03-09,,,,0,0,,,,,History of preterm birth,0,baseline history
+539,614,0,2025-08-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+540,616,0,2025-08-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+541,616,0,2026-05-11,,,,0,0,,,,,Preterm birth,0,study outcome
+542,617,0,2026-05-12,,,,0,0,,,,,Preterm birth,0,study outcome
+543,618,0,2025-08-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+544,618,0,2025-08-11,,,,0,0,,,,,Hypertension,0,baseline confounder
+545,620,0,2025-08-13,,,,0,0,,,,,Hypertension,0,baseline confounder
+546,620,0,2026-05-15,,,,0,0,,,,,Preterm birth,0,study outcome
+547,621,0,2025-08-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+548,622,0,2025-08-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+549,622,0,2025-03-18,,,,0,0,,,,,History of preterm birth,0,baseline history
+550,623,0,2025-08-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+551,623,0,2025-08-16,,,,0,0,,,,,Hypertension,0,baseline confounder
+552,623,0,2026-05-18,,,,0,0,,,,,Preterm birth,0,study outcome
+553,626,0,2025-03-22,,,,0,0,,,,,History of preterm birth,0,baseline history
+554,626,0,2026-05-21,,,,0,0,,,,,Preterm birth,0,study outcome
+555,627,0,2025-08-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+556,627,0,2025-03-23,,,,0,0,,,,,History of preterm birth,0,baseline history
+557,629,0,2025-08-22,,,,0,0,,,,,Hypertension,0,baseline confounder
+558,631,0,2025-08-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+559,633,0,2025-08-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+560,635,0,2025-08-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+561,635,0,2025-03-31,,,,0,0,,,,,History of preterm birth,0,baseline history
+562,636,0,2025-04-01,,,,0,0,,,,,History of preterm birth,0,baseline history
+563,636,0,2026-05-31,,,,0,0,,,,,Preterm birth,0,study outcome
+564,637,0,2025-08-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+565,638,0,2025-08-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+566,638,0,2025-08-31,,,,0,0,,,,,Hypertension,0,baseline confounder
+567,640,0,2025-09-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+568,642,0,2025-09-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+569,643,0,2025-09-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+570,644,0,2025-09-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+571,646,0,2025-09-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+572,648,0,2025-09-10,,,,0,0,,,,,Hypertension,0,baseline confounder
+573,650,0,2025-09-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+574,651,0,2025-09-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+575,653,0,2025-09-15,,,,0,0,,,,,Hypertension,0,baseline confounder
+576,654,0,2025-09-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+577,656,0,2026-06-20,,,,0,0,,,,,Preterm birth,0,study outcome
+578,657,0,2025-09-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+579,658,0,2025-09-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+580,658,0,2026-06-22,,,,0,0,,,,,Preterm birth,0,study outcome
+581,659,0,2025-09-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+582,660,0,2026-06-24,,,,0,0,,,,,Preterm birth,0,study outcome
+583,661,0,2025-09-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+584,662,0,2025-09-24,,,,0,0,,,,,Hypertension,0,baseline confounder
+585,663,0,2025-09-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+586,664,0,2025-09-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+587,665,0,2025-09-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+588,665,0,2025-09-27,,,,0,0,,,,,Hypertension,0,baseline confounder
+589,665,0,2026-06-29,,,,0,0,,,,,Preterm birth,0,study outcome
+590,667,0,2026-07-01,,,,0,0,,,,,Preterm birth,0,study outcome
+591,669,0,2025-10-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+592,670,0,2025-10-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+593,671,0,2025-10-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+594,671,0,2026-07-05,,,,0,0,,,,,Preterm birth,0,study outcome
+595,672,0,2025-10-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+596,672,0,2025-05-07,,,,0,0,,,,,History of preterm birth,0,baseline history
+597,674,0,2025-10-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+598,675,0,2025-10-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+599,676,0,2025-10-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+600,676,0,2026-07-10,,,,0,0,,,,,Preterm birth,0,study outcome
+601,677,0,2025-10-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+602,678,0,2025-10-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+603,680,0,2025-10-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+604,680,0,2026-07-14,,,,0,0,,,,,Preterm birth,0,study outcome
+605,682,0,2025-10-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+606,683,0,2025-10-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+607,685,0,2025-10-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+608,686,0,2025-10-18,,,,0,0,,,,,Hypertension,0,baseline confounder
+609,687,0,2025-10-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+610,687,0,2025-05-22,,,,0,0,,,,,History of preterm birth,0,baseline history
+611,687,0,2026-07-21,,,,0,0,,,,,Preterm birth,0,study outcome
+612,688,0,2026-07-22,,,,0,0,,,,,Preterm birth,0,study outcome
+613,689,0,2025-10-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+614,690,0,2025-10-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+615,691,0,2025-10-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+616,693,0,2025-10-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+617,694,0,2025-10-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+618,698,0,2025-10-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+619,699,0,2025-10-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+620,700,0,2025-11-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+621,702,0,2025-11-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+622,703,0,2025-06-07,,,,0,0,,,,,History of preterm birth,0,baseline history
+623,705,0,2025-11-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+624,706,0,2025-11-07,,,,0,0,,,,,Hypertension,0,baseline confounder
+625,707,0,2025-11-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+626,707,0,2025-11-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+627,708,0,2026-08-11,,,,0,0,,,,,Preterm birth,0,study outcome
+628,709,0,2025-11-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+629,711,0,2025-11-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+630,711,0,2025-11-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+631,713,0,2025-11-14,,,,0,0,,,,,Hypertension,0,baseline confounder
+632,713,0,2026-08-16,,,,0,0,,,,,Preterm birth,0,study outcome
+633,714,0,2025-11-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+634,716,0,2025-11-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+635,716,0,2025-11-17,,,,0,0,,,,,Hypertension,0,baseline confounder
+636,717,0,2025-11-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+637,718,0,2026-08-21,,,,0,0,,,,,Preterm birth,0,study outcome
+638,720,0,2025-11-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+639,721,0,2025-11-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+640,721,0,2025-06-25,,,,0,0,,,,,History of preterm birth,0,baseline history
+641,721,0,2026-08-24,,,,0,0,,,,,Preterm birth,0,study outcome
+642,722,0,2025-11-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+643,724,0,2025-11-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+644,725,0,2025-11-26,,,,0,0,,,,,Hypertension,0,baseline confounder
+645,726,0,2025-11-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+646,727,0,2025-11-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+647,729,0,2026-09-01,,,,0,0,,,,,Preterm birth,0,study outcome
+648,731,0,2024-12-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+649,732,0,2024-12-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+650,732,0,2024-07-06,,,,0,0,,,,,History of preterm birth,0,baseline history
+651,733,0,2024-07-07,,,,0,0,,,,,History of preterm birth,0,baseline history
+652,735,0,2025-09-07,,,,0,0,,,,,Preterm birth,0,study outcome
+653,736,0,2024-12-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+654,736,0,2024-12-07,,,,0,0,,,,,Hypertension,0,baseline confounder
+655,737,0,2024-12-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+656,737,0,2025-09-09,,,,0,0,,,,,Preterm birth,0,study outcome
+657,739,0,2024-07-13,,,,0,0,,,,,History of preterm birth,0,baseline history
+658,740,0,2024-12-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+659,740,0,2024-07-14,,,,0,0,,,,,History of preterm birth,0,baseline history
+660,741,0,2024-12-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+661,746,0,2024-12-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+662,746,0,2024-12-17,,,,0,0,,,,,Hypertension,0,baseline confounder
+663,746,0,2025-09-18,,,,0,0,,,,,Preterm birth,0,study outcome
+664,747,0,2024-12-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+665,747,0,2024-12-18,,,,0,0,,,,,Hypertension,0,baseline confounder
+666,749,0,2024-12-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+667,749,0,2024-07-23,,,,0,0,,,,,History of preterm birth,0,baseline history
+668,751,0,2024-12-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+669,752,0,2024-12-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+670,754,0,2024-12-25,,,,0,0,,,,,Hypertension,0,baseline confounder
+671,754,0,2025-09-26,,,,0,0,,,,,Preterm birth,0,study outcome
+672,755,0,2024-12-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+673,755,0,2024-12-26,,,,0,0,,,,,Hypertension,0,baseline confounder
+674,755,0,2025-09-27,,,,0,0,,,,,Preterm birth,0,study outcome
+675,756,0,2024-07-30,,,,0,0,,,,,History of preterm birth,0,baseline history
+676,759,0,2024-12-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+677,761,0,2025-01-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+678,762,0,2025-01-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+679,762,0,2024-08-05,,,,0,0,,,,,History of preterm birth,0,baseline history
+680,763,0,2025-01-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+681,764,0,2025-01-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+682,765,0,2025-01-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+683,767,0,2025-01-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+684,768,0,2025-01-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+685,768,0,2025-01-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+686,770,0,2025-10-12,,,,0,0,,,,,Preterm birth,0,study outcome
+687,773,0,2025-01-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+688,773,0,2025-01-13,,,,0,0,,,,,Hypertension,0,baseline confounder
+689,773,0,2024-08-16,,,,0,0,,,,,History of preterm birth,0,baseline history
+690,773,0,2025-10-15,,,,0,0,,,,,Preterm birth,0,study outcome
+691,775,0,2025-01-15,,,,0,0,,,,,Hypertension,0,baseline confounder
+692,775,0,2024-08-18,,,,0,0,,,,,History of preterm birth,0,baseline history
+693,775,0,2025-10-17,,,,0,0,,,,,Preterm birth,0,study outcome
+694,776,0,2025-01-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+695,778,0,2024-08-21,,,,0,0,,,,,History of preterm birth,0,baseline history
+696,780,0,2025-01-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+697,781,0,2025-01-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+698,782,0,2025-01-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+699,782,0,2025-10-24,,,,0,0,,,,,Preterm birth,0,study outcome
+700,784,0,2025-01-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+701,788,0,2025-01-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+702,789,0,2024-09-01,,,,0,0,,,,,History of preterm birth,0,baseline history
+703,792,0,2024-09-04,,,,0,0,,,,,History of preterm birth,0,baseline history
+704,793,0,2025-02-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+705,794,0,2025-02-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+706,795,0,2025-02-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+707,797,0,2025-02-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+708,798,0,2025-02-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+709,799,0,2025-02-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+710,799,0,2024-09-11,,,,0,0,,,,,History of preterm birth,0,baseline history
+711,801,0,2025-02-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+712,801,0,2025-02-10,,,,0,0,,,,,Hypertension,0,baseline confounder
+713,802,0,2025-02-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+714,802,0,2025-02-11,,,,0,0,,,,,Hypertension,0,baseline confounder
+715,804,0,2024-09-16,,,,0,0,,,,,History of preterm birth,0,baseline history
+716,805,0,2025-02-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+717,806,0,2025-02-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+718,810,0,2025-02-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+719,812,0,2025-02-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+720,812,0,2025-02-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+721,812,0,2025-11-23,,,,0,0,,,,,Preterm birth,0,study outcome
+722,814,0,2025-02-23,,,,0,0,,,,,Hypertension,0,baseline confounder
+723,815,0,2025-02-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+724,815,0,2025-11-26,,,,0,0,,,,,Preterm birth,0,study outcome
+725,816,0,2025-02-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+726,817,0,2025-02-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+727,819,0,2025-02-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+728,820,0,2025-03-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+729,821,0,2025-03-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+730,823,0,2025-12-04,,,,0,0,,,,,Preterm birth,0,study outcome
+731,824,0,2025-03-05,,,,0,0,,,,,Hypertension,0,baseline confounder
+732,825,0,2025-03-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+733,827,0,2025-03-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+734,827,0,2025-12-08,,,,0,0,,,,,Preterm birth,0,study outcome
+735,828,0,2025-03-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+736,829,0,2025-03-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+737,830,0,2024-10-12,,,,0,0,,,,,History of preterm birth,0,baseline history
+738,832,0,2025-03-13,,,,0,0,,,,,Hypertension,0,baseline confounder
+739,833,0,2025-12-14,,,,0,0,,,,,Preterm birth,0,study outcome
+740,834,0,2025-03-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+741,834,0,2025-03-15,,,,0,0,,,,,Hypertension,0,baseline confounder
+742,836,0,2025-03-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+743,839,0,2025-03-20,,,,0,0,,,,,Hypertension,0,baseline confounder
+744,839,0,2024-10-21,,,,0,0,,,,,History of preterm birth,0,baseline history
+745,839,0,2025-12-20,,,,0,0,,,,,Preterm birth,0,study outcome
+746,840,0,2025-03-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+747,841,0,2025-03-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+748,841,0,2025-12-22,,,,0,0,,,,,Preterm birth,0,study outcome
+749,842,0,2024-10-24,,,,0,0,,,,,History of preterm birth,0,baseline history
+750,843,0,2024-10-25,,,,0,0,,,,,History of preterm birth,0,baseline history
+751,843,0,2025-12-24,,,,0,0,,,,,Preterm birth,0,study outcome
+752,844,0,2024-10-26,,,,0,0,,,,,History of preterm birth,0,baseline history
+753,844,0,2025-12-25,,,,0,0,,,,,Preterm birth,0,study outcome
+754,845,0,2025-03-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+755,846,0,2025-03-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+756,846,0,2024-10-28,,,,0,0,,,,,History of preterm birth,0,baseline history
+757,848,0,2025-03-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+758,850,0,2025-03-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+759,850,0,2025-12-31,,,,0,0,,,,,Preterm birth,0,study outcome
+760,851,0,2026-01-01,,,,0,0,,,,,Preterm birth,0,study outcome
+761,852,0,2025-04-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+762,852,0,2024-11-03,,,,0,0,,,,,History of preterm birth,0,baseline history
+763,853,0,2025-04-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+764,854,0,2025-04-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+765,855,0,2025-04-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+766,855,0,2025-04-05,,,,0,0,,,,,Hypertension,0,baseline confounder
+767,855,0,2026-01-05,,,,0,0,,,,,Preterm birth,0,study outcome
+768,856,0,2025-04-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+769,856,0,2025-04-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+770,857,0,2025-04-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+771,858,0,2025-04-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+772,859,0,2025-04-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+773,862,0,2025-04-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+774,864,0,2025-04-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+775,865,0,2025-04-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+776,865,0,2026-01-15,,,,0,0,,,,,Preterm birth,0,study outcome
+777,871,0,2025-04-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+778,872,0,2025-04-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+779,872,0,2026-01-22,,,,0,0,,,,,Preterm birth,0,study outcome
+780,873,0,2025-04-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+781,873,0,2024-11-24,,,,0,0,,,,,History of preterm birth,0,baseline history
+782,877,0,2025-04-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+783,877,0,2025-04-27,,,,0,0,,,,,Hypertension,0,baseline confounder
+784,877,0,2026-01-27,,,,0,0,,,,,Preterm birth,0,study outcome
+785,878,0,2025-04-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+786,879,0,2025-04-29,,,,0,0,,,,,Hypertension,0,baseline confounder
+787,879,0,2024-11-30,,,,0,0,,,,,History of preterm birth,0,baseline history
+788,879,0,2026-01-29,,,,0,0,,,,,Preterm birth,0,study outcome
+789,881,0,2025-05-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+790,882,0,2025-05-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+791,883,0,2025-05-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+792,884,0,2025-05-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+793,886,0,2025-05-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+794,886,0,2024-12-07,,,,0,0,,,,,History of preterm birth,0,baseline history
+795,886,0,2026-02-05,,,,0,0,,,,,Preterm birth,0,study outcome
+796,887,0,2025-05-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+797,887,0,2026-02-06,,,,0,0,,,,,Preterm birth,0,study outcome
+798,888,0,2025-05-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+799,888,0,2024-12-09,,,,0,0,,,,,History of preterm birth,0,baseline history
+800,888,0,2026-02-07,,,,0,0,,,,,Preterm birth,0,study outcome
+801,889,0,2025-05-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+802,889,0,2024-12-10,,,,0,0,,,,,History of preterm birth,0,baseline history
+803,889,0,2026-02-08,,,,0,0,,,,,Preterm birth,0,study outcome
+804,890,0,2025-05-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+805,892,0,2025-05-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+806,894,0,2025-05-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+807,895,0,2025-05-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+808,897,0,2025-05-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+809,898,0,2025-05-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+810,898,0,2025-05-18,,,,0,0,,,,,Hypertension,0,baseline confounder
+811,898,0,2026-02-17,,,,0,0,,,,,Preterm birth,0,study outcome
+812,899,0,2025-05-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+813,899,0,2025-05-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+814,899,0,2026-02-18,,,,0,0,,,,,Preterm birth,0,study outcome
+815,901,0,2025-05-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+816,902,0,2025-05-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+817,902,0,2025-05-22,,,,0,0,,,,,Hypertension,0,baseline confounder
+818,904,0,2025-05-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+819,905,0,2025-05-25,,,,0,0,,,,,Hypertension,0,baseline confounder
+820,906,0,2024-12-27,,,,0,0,,,,,History of preterm birth,0,baseline history
+821,906,0,2026-02-25,,,,0,0,,,,,Preterm birth,0,study outcome
+822,908,0,2025-05-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+823,909,0,2025-05-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+824,911,0,2025-05-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+825,913,0,2026-03-04,,,,0,0,,,,,Preterm birth,0,study outcome
+826,915,0,2025-06-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+827,916,0,2025-06-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+828,917,0,2025-06-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+829,918,0,2025-06-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+830,918,0,2025-06-07,,,,0,0,,,,,Hypertension,0,baseline confounder
+831,918,0,2025-01-08,,,,0,0,,,,,History of preterm birth,0,baseline history
+832,921,0,2025-01-11,,,,0,0,,,,,History of preterm birth,0,baseline history
+833,923,0,2025-01-13,,,,0,0,,,,,History of preterm birth,0,baseline history
+834,924,0,2025-06-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+835,926,0,2025-06-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+836,927,0,2025-06-16,,,,0,0,,,,,Hypertension,0,baseline confounder
+837,927,0,2025-01-17,,,,0,0,,,,,History of preterm birth,0,baseline history
+838,929,0,2025-06-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+839,931,0,2025-06-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+840,932,0,2025-06-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+841,932,0,2025-06-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+842,933,0,2026-03-24,,,,0,0,,,,,Preterm birth,0,study outcome
+843,934,0,2025-06-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+844,934,0,2025-01-24,,,,0,0,,,,,History of preterm birth,0,baseline history
+845,934,0,2026-03-25,,,,0,0,,,,,Preterm birth,0,study outcome
+846,937,0,2025-06-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+847,937,0,2026-03-28,,,,0,0,,,,,Preterm birth,0,study outcome
+848,938,0,2025-01-28,,,,0,0,,,,,History of preterm birth,0,baseline history
+849,939,0,2025-06-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+850,939,0,2025-06-28,,,,0,0,,,,,Hypertension,0,baseline confounder
+851,939,0,2025-01-29,,,,0,0,,,,,History of preterm birth,0,baseline history
+852,940,0,2025-06-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+853,941,0,2025-06-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+854,943,0,2026-04-03,,,,0,0,,,,,Preterm birth,0,study outcome
+855,944,0,2025-07-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+856,948,0,2025-07-07,,,,0,0,,,,,Hypertension,0,baseline confounder
+857,950,0,2025-07-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+858,950,0,2025-07-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+859,951,0,2025-07-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+860,951,0,2025-07-10,,,,0,0,,,,,Hypertension,0,baseline confounder
+861,951,0,2026-04-11,,,,0,0,,,,,Preterm birth,0,study outcome
+862,952,0,2025-02-11,,,,0,0,,,,,History of preterm birth,0,baseline history
+863,952,0,2026-04-12,,,,0,0,,,,,Preterm birth,0,study outcome
+864,953,0,2026-04-13,,,,0,0,,,,,Preterm birth,0,study outcome
+865,955,0,2025-07-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+866,955,0,2025-07-14,,,,0,0,,,,,Hypertension,0,baseline confounder
+867,955,0,2026-04-15,,,,0,0,,,,,Preterm birth,0,study outcome
+868,957,0,2025-07-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+869,958,0,2025-07-17,,,,0,0,,,,,Hypertension,0,baseline confounder
+870,959,0,2025-07-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+871,961,0,2025-07-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+872,963,0,2025-07-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+873,965,0,2025-07-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+874,966,0,2025-07-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+875,966,0,2025-07-25,,,,0,0,,,,,Hypertension,0,baseline confounder
+876,966,0,2026-04-26,,,,0,0,,,,,Preterm birth,0,study outcome
+877,968,0,2025-07-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+878,968,0,2025-07-27,,,,0,0,,,,,Hypertension,0,baseline confounder
+879,969,0,2025-07-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+880,969,0,2025-07-28,,,,0,0,,,,,Hypertension,0,baseline confounder
+881,973,0,2025-08-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+882,974,0,2025-08-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+883,976,0,2025-03-07,,,,0,0,,,,,History of preterm birth,0,baseline history
+884,977,0,2025-08-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+885,977,0,2025-08-05,,,,0,0,,,,,Hypertension,0,baseline confounder
+886,978,0,2025-08-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+887,980,0,2025-08-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+888,981,0,2025-08-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+889,982,0,2026-05-12,,,,0,0,,,,,Preterm birth,0,study outcome
+890,983,0,2025-08-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+891,983,0,2025-08-11,,,,0,0,,,,,Hypertension,0,baseline confounder
+892,987,0,2025-08-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+893,987,0,2026-05-17,,,,0,0,,,,,Preterm birth,0,study outcome
+894,988,0,2025-08-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+895,989,0,2025-03-20,,,,0,0,,,,,History of preterm birth,0,baseline history
+896,990,0,2026-05-20,,,,0,0,,,,,Preterm birth,0,study outcome
+897,991,0,2025-08-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+898,991,0,2026-05-21,,,,0,0,,,,,Preterm birth,0,study outcome
+899,992,0,2025-08-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+900,993,0,2025-08-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+901,993,0,2025-03-24,,,,0,0,,,,,History of preterm birth,0,baseline history
+902,994,0,2025-08-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+903,996,0,2025-03-27,,,,0,0,,,,,History of preterm birth,0,baseline history
+904,996,0,2026-05-26,,,,0,0,,,,,Preterm birth,0,study outcome
+905,999,0,2025-08-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+906,1002,0,2025-04-02,,,,0,0,,,,,History of preterm birth,0,baseline history
+907,1003,0,2025-08-31,,,,0,0,,,,,Hypertension,0,baseline confounder
+908,1005,0,2026-06-04,,,,0,0,,,,,Preterm birth,0,study outcome
+909,1007,0,2025-09-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+910,1010,0,2025-09-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+911,1015,0,2025-09-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+912,1015,0,2025-09-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+913,1017,0,2025-09-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+914,1018,0,2025-09-15,,,,0,0,,,,,Hypertension,0,baseline confounder
+915,1018,0,2026-06-17,,,,0,0,,,,,Preterm birth,0,study outcome
+916,1019,0,2025-09-16,,,,0,0,,,,,Hypertension,0,baseline confounder
+917,1020,0,2025-09-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+918,1022,0,2025-09-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+919,1022,0,2025-09-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+920,1024,0,2025-09-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+921,1024,0,2025-09-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+922,1026,0,2025-09-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+923,1028,0,2025-09-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+924,1029,0,2025-09-26,,,,0,0,,,,,Hypertension,0,baseline confounder
+925,1030,0,2025-09-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+926,1030,0,2025-09-27,,,,0,0,,,,,Hypertension,0,baseline confounder
+927,1031,0,2025-05-01,,,,0,0,,,,,History of preterm birth,0,baseline history
+928,1032,0,2025-09-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+929,1033,0,2025-09-30,,,,0,0,,,,,Hypertension,0,baseline confounder
+930,1038,0,2025-10-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+931,1038,0,2026-07-07,,,,0,0,,,,,Preterm birth,0,study outcome
+932,1039,0,2025-10-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+933,1041,0,2025-10-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+934,1041,0,2025-10-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+935,1043,0,2025-05-13,,,,0,0,,,,,History of preterm birth,0,baseline history
+936,1044,0,2025-10-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+937,1045,0,2025-10-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+938,1046,0,2025-10-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+939,1048,0,2025-10-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+940,1052,0,2025-10-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+941,1052,0,2025-05-22,,,,0,0,,,,,History of preterm birth,0,baseline history
+942,1053,0,2025-10-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+943,1054,0,2025-10-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+944,1054,0,2025-05-24,,,,0,0,,,,,History of preterm birth,0,baseline history
+945,1056,0,2025-10-23,,,,0,0,,,,,Hypertension,0,baseline confounder
+946,1056,0,2025-05-26,,,,0,0,,,,,History of preterm birth,0,baseline history
+947,1057,0,2025-10-24,,,,0,0,,,,,Hypertension,0,baseline confounder
+948,1060,0,2025-10-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+949,1061,0,2025-10-28,,,,0,0,,,,,Hypertension,0,baseline confounder
+950,1066,0,2025-11-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+951,1066,0,2025-11-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+952,1067,0,2025-11-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+953,1068,0,2025-11-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+954,1070,0,2025-06-09,,,,0,0,,,,,History of preterm birth,0,baseline history
+955,1070,0,2026-08-08,,,,0,0,,,,,Preterm birth,0,study outcome
+956,1072,0,2025-11-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+957,1073,0,2025-11-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+958,1073,0,2025-11-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+959,1076,0,2025-11-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+960,1077,0,2025-11-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+961,1078,0,2025-11-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+962,1079,0,2025-11-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+963,1079,0,2026-08-17,,,,0,0,,,,,Preterm birth,0,study outcome
+964,1080,0,2025-11-16,,,,0,0,,,,,Hypertension,0,baseline confounder
+965,1082,0,2025-11-18,,,,0,0,,,,,Hypertension,0,baseline confounder
+966,1085,0,2025-11-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+967,1086,0,2025-11-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+968,1088,0,2025-11-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+969,1089,0,2025-11-25,,,,0,0,,,,,Hypertension,0,baseline confounder
+970,1096,0,2024-12-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+971,1096,0,2025-09-03,,,,0,0,,,,,Preterm birth,0,study outcome
+972,1099,0,2024-12-05,,,,0,0,,,,,Hypertension,0,baseline confounder
+973,1100,0,2024-12-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+974,1100,0,2024-12-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+975,1100,0,2025-09-07,,,,0,0,,,,,Preterm birth,0,study outcome
+976,1102,0,2024-12-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+977,1102,0,2024-07-11,,,,0,0,,,,,History of preterm birth,0,baseline history
+978,1103,0,2025-09-10,,,,0,0,,,,,Preterm birth,0,study outcome
+979,1105,0,2024-12-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+980,1106,0,2025-09-13,,,,0,0,,,,,Preterm birth,0,study outcome
+981,1109,0,2024-12-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+982,1112,0,2024-12-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+983,1112,0,2024-12-18,,,,0,0,,,,,Hypertension,0,baseline confounder
+984,1113,0,2025-09-20,,,,0,0,,,,,Preterm birth,0,study outcome
+985,1114,0,2024-12-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+986,1115,0,2024-12-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+987,1116,0,2024-12-22,,,,0,0,,,,,Hypertension,0,baseline confounder
+988,1119,0,2024-12-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+989,1119,0,2024-12-25,,,,0,0,,,,,Hypertension,0,baseline confounder
+990,1119,0,2025-09-26,,,,0,0,,,,,Preterm birth,0,study outcome
+991,1120,0,2024-12-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+992,1121,0,2024-12-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+993,1121,0,2024-07-30,,,,0,0,,,,,History of preterm birth,0,baseline history
+994,1122,0,2024-12-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+995,1123,0,2024-12-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+996,1126,0,2025-01-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+997,1129,0,2025-01-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+998,1130,0,2025-10-07,,,,0,0,,,,,Preterm birth,0,study outcome
+999,1131,0,2025-01-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1000,1131,0,2025-01-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+1001,1132,0,2025-01-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1002,1133,0,2025-10-10,,,,0,0,,,,,Preterm birth,0,study outcome
+1003,1134,0,2025-01-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1004,1141,0,2024-08-19,,,,0,0,,,,,History of preterm birth,0,baseline history
+1005,1142,0,2024-08-20,,,,0,0,,,,,History of preterm birth,0,baseline history
+1006,1143,0,2025-01-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1007,1144,0,2025-01-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1008,1149,0,2025-01-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1009,1149,0,2025-01-24,,,,0,0,,,,,Hypertension,0,baseline confounder
+1010,1150,0,2025-01-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1011,1151,0,2025-10-28,,,,0,0,,,,,Preterm birth,0,study outcome
+1012,1152,0,2025-01-27,,,,0,0,,,,,Hypertension,0,baseline confounder
+1013,1154,0,2025-01-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1014,1156,0,2025-01-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1015,1157,0,2025-02-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1016,1159,0,2025-02-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1017,1159,0,2025-11-05,,,,0,0,,,,,Preterm birth,0,study outcome
+1018,1160,0,2025-02-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1019,1160,0,2024-09-07,,,,0,0,,,,,History of preterm birth,0,baseline history
+1020,1161,0,2025-02-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1021,1161,0,2025-11-07,,,,0,0,,,,,Preterm birth,0,study outcome
+1022,1164,0,2025-02-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1023,1164,0,2024-09-11,,,,0,0,,,,,History of preterm birth,0,baseline history
+1024,1164,0,2025-11-10,,,,0,0,,,,,Preterm birth,0,study outcome
+1025,1165,0,2025-02-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1026,1166,0,2025-02-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1027,1167,0,2025-02-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1028,1167,0,2025-11-13,,,,0,0,,,,,Preterm birth,0,study outcome
+1029,1168,0,2025-02-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1030,1168,0,2024-09-15,,,,0,0,,,,,History of preterm birth,0,baseline history
+1031,1168,0,2025-11-14,,,,0,0,,,,,Preterm birth,0,study outcome
+1032,1169,0,2025-02-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1033,1169,0,2025-11-15,,,,0,0,,,,,Preterm birth,0,study outcome
+1034,1172,0,2025-02-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1035,1172,0,2024-09-19,,,,0,0,,,,,History of preterm birth,0,baseline history
+1036,1173,0,2025-02-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1037,1174,0,2025-02-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1038,1176,0,2025-02-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1039,1177,0,2025-02-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1040,1177,0,2025-02-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+1041,1178,0,2024-09-25,,,,0,0,,,,,History of preterm birth,0,baseline history
+1042,1179,0,2025-02-23,,,,0,0,,,,,Hypertension,0,baseline confounder
+1043,1180,0,2025-02-24,,,,0,0,,,,,Hypertension,0,baseline confounder
+1044,1182,0,2025-11-28,,,,0,0,,,,,Preterm birth,0,study outcome
+1045,1184,0,2025-02-28,,,,0,0,,,,,Hypertension,0,baseline confounder
+1046,1185,0,2025-03-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1047,1185,0,2025-12-01,,,,0,0,,,,,Preterm birth,0,study outcome
+1048,1186,0,2025-03-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1049,1186,0,2025-03-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+1050,1187,0,2025-03-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1051,1189,0,2024-10-06,,,,0,0,,,,,History of preterm birth,0,baseline history
+1052,1189,0,2025-12-05,,,,0,0,,,,,Preterm birth,0,study outcome
+1053,1190,0,2025-03-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1054,1191,0,2025-12-07,,,,0,0,,,,,Preterm birth,0,study outcome
+1055,1192,0,2025-03-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1056,1192,0,2025-12-08,,,,0,0,,,,,Preterm birth,0,study outcome
+1057,1193,0,2025-03-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1058,1193,0,2025-03-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+1059,1195,0,2025-03-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1060,1198,0,2025-03-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1061,1198,0,2025-12-14,,,,0,0,,,,,Preterm birth,0,study outcome
+1062,1199,0,2024-10-16,,,,0,0,,,,,History of preterm birth,0,baseline history
+1063,1200,0,2025-03-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1064,1201,0,2024-10-18,,,,0,0,,,,,History of preterm birth,0,baseline history
+1065,1201,0,2025-12-17,,,,0,0,,,,,Preterm birth,0,study outcome
+1066,1203,0,2025-03-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1067,1204,0,2025-03-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1068,1207,0,2025-03-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1069,1207,0,2025-12-23,,,,0,0,,,,,Preterm birth,0,study outcome
+1070,1209,0,2025-03-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1071,1210,0,2025-03-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1072,1210,0,2025-03-26,,,,0,0,,,,,Hypertension,0,baseline confounder
+1073,1210,0,2024-10-27,,,,0,0,,,,,History of preterm birth,0,baseline history
+1074,1211,0,2025-03-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1075,1211,0,2025-03-27,,,,0,0,,,,,Hypertension,0,baseline confounder
+1076,1212,0,2025-03-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1077,1214,0,2025-03-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1078,1214,0,2025-03-30,,,,0,0,,,,,Hypertension,0,baseline confounder
+1079,1214,0,2025-12-30,,,,0,0,,,,,Preterm birth,0,study outcome
+1080,1215,0,2025-03-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1081,1217,0,2025-04-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1082,1218,0,2026-01-03,,,,0,0,,,,,Preterm birth,0,study outcome
+1083,1219,0,2025-04-04,,,,0,0,,,,,Hypertension,0,baseline confounder
+1084,1221,0,2025-04-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1085,1221,0,2024-11-07,,,,0,0,,,,,History of preterm birth,0,baseline history
+1086,1223,0,2025-04-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1087,1223,0,2026-01-08,,,,0,0,,,,,Preterm birth,0,study outcome
+1088,1224,0,2025-04-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1089,1224,0,2025-04-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+1090,1227,0,2025-04-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1091,1227,0,2026-01-12,,,,0,0,,,,,Preterm birth,0,study outcome
+1092,1228,0,2025-04-13,,,,0,0,,,,,Hypertension,0,baseline confounder
+1093,1228,0,2026-01-13,,,,0,0,,,,,Preterm birth,0,study outcome
+1094,1229,0,2025-04-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1095,1229,0,2024-11-15,,,,0,0,,,,,History of preterm birth,0,baseline history
+1096,1229,0,2026-01-14,,,,0,0,,,,,Preterm birth,0,study outcome
+1097,1230,0,2026-01-15,,,,0,0,,,,,Preterm birth,0,study outcome
+1098,1232,0,2025-04-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1099,1233,0,2024-11-19,,,,0,0,,,,,History of preterm birth,0,baseline history
+1100,1235,0,2026-01-20,,,,0,0,,,,,Preterm birth,0,study outcome
+1101,1236,0,2024-11-22,,,,0,0,,,,,History of preterm birth,0,baseline history
+1102,1238,0,2025-04-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1103,1241,0,2025-04-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1104,1244,0,2025-04-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1105,1245,0,2025-04-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1106,1245,0,2025-04-30,,,,0,0,,,,,Hypertension,0,baseline confounder
+1107,1246,0,2025-05-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1108,1246,0,2026-01-31,,,,0,0,,,,,Preterm birth,0,study outcome
+1109,1247,0,2025-05-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1110,1247,0,2025-05-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+1111,1248,0,2024-12-04,,,,0,0,,,,,History of preterm birth,0,baseline history
+1112,1249,0,2025-05-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1113,1250,0,2024-12-06,,,,0,0,,,,,History of preterm birth,0,baseline history
+1114,1254,0,2025-05-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+1115,1255,0,2025-05-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1116,1255,0,2026-02-09,,,,0,0,,,,,Preterm birth,0,study outcome
+1117,1256,0,2025-05-11,,,,0,0,,,,,Hypertension,0,baseline confounder
+1118,1257,0,2025-05-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+1119,1257,0,2024-12-13,,,,0,0,,,,,History of preterm birth,0,baseline history
+1120,1258,0,2026-02-12,,,,0,0,,,,,Preterm birth,0,study outcome
+1121,1260,0,2025-05-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1122,1260,0,2024-12-16,,,,0,0,,,,,History of preterm birth,0,baseline history
+1123,1260,0,2026-02-14,,,,0,0,,,,,Preterm birth,0,study outcome
+1124,1261,0,2025-05-16,,,,0,0,,,,,Hypertension,0,baseline confounder
+1125,1262,0,2024-12-18,,,,0,0,,,,,History of preterm birth,0,baseline history
+1126,1264,0,2025-05-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1127,1265,0,2025-05-20,,,,0,0,,,,,Hypertension,0,baseline confounder
+1128,1269,0,2025-05-24,,,,0,0,,,,,Hypertension,0,baseline confounder
+1129,1270,0,2025-05-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1130,1270,0,2026-02-24,,,,0,0,,,,,Preterm birth,0,study outcome
+1131,1271,0,2025-05-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1132,1272,0,2025-05-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1133,1273,0,2025-05-28,,,,0,0,,,,,Hypertension,0,baseline confounder
+1134,1275,0,2025-05-30,,,,0,0,,,,,Hypertension,0,baseline confounder
+1135,1276,0,2025-05-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1136,1277,0,2025-06-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1137,1277,0,2026-03-03,,,,0,0,,,,,Preterm birth,0,study outcome
+1138,1278,0,2025-06-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1139,1279,0,2025-06-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+1140,1281,0,2025-06-05,,,,0,0,,,,,Hypertension,0,baseline confounder
+1141,1282,0,2025-06-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1142,1283,0,2025-06-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1143,1284,0,2025-06-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1144,1287,0,2025-06-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1145,1288,0,2025-06-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1146,1289,0,2025-06-13,,,,0,0,,,,,Hypertension,0,baseline confounder
+1147,1290,0,2026-03-16,,,,0,0,,,,,Preterm birth,0,study outcome
+1148,1294,0,2025-06-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1149,1297,0,2026-03-23,,,,0,0,,,,,Preterm birth,0,study outcome
+1150,1298,0,2025-06-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1151,1299,0,2025-06-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1152,1301,0,2025-06-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1153,1302,0,2025-06-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1154,1303,0,2025-01-28,,,,0,0,,,,,History of preterm birth,0,baseline history
+1155,1305,0,2025-06-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1156,1306,0,2025-06-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1157,1306,0,2026-04-01,,,,0,0,,,,,Preterm birth,0,study outcome
+1158,1307,0,2025-07-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1159,1308,0,2025-07-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1160,1308,0,2025-02-02,,,,0,0,,,,,History of preterm birth,0,baseline history
+1161,1309,0,2025-07-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1162,1312,0,2025-07-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+1163,1312,0,2026-04-07,,,,0,0,,,,,Preterm birth,0,study outcome
+1164,1314,0,2025-07-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1165,1315,0,2025-07-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1166,1315,0,2025-07-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+1167,1316,0,2025-07-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1168,1317,0,2025-02-11,,,,0,0,,,,,History of preterm birth,0,baseline history
+1169,1318,0,2025-07-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1170,1320,0,2025-02-14,,,,0,0,,,,,History of preterm birth,0,baseline history
+1171,1321,0,2025-07-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1172,1321,0,2025-07-15,,,,0,0,,,,,Hypertension,0,baseline confounder
+1173,1321,0,2026-04-16,,,,0,0,,,,,Preterm birth,0,study outcome
+1174,1322,0,2025-07-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1175,1323,0,2025-07-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1176,1327,0,2025-07-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+1177,1328,0,2025-07-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1178,1328,0,2025-07-22,,,,0,0,,,,,Hypertension,0,baseline confounder
+1179,1328,0,2026-04-23,,,,0,0,,,,,Preterm birth,0,study outcome
+1180,1329,0,2025-07-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1181,1329,0,2026-04-24,,,,0,0,,,,,Preterm birth,0,study outcome
+1182,1330,0,2025-07-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1183,1330,0,2025-07-24,,,,0,0,,,,,Hypertension,0,baseline confounder
+1184,1330,0,2026-04-25,,,,0,0,,,,,Preterm birth,0,study outcome
+1185,1332,0,2025-07-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1186,1333,0,2025-02-27,,,,0,0,,,,,History of preterm birth,0,baseline history
+1187,1334,0,2025-07-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1188,1337,0,2025-03-03,,,,0,0,,,,,History of preterm birth,0,baseline history
+1189,1338,0,2025-08-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1190,1338,0,2025-03-04,,,,0,0,,,,,History of preterm birth,0,baseline history
+1191,1339,0,2026-05-04,,,,0,0,,,,,Preterm birth,0,study outcome
+1192,1340,0,2025-08-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+1193,1341,0,2025-08-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1194,1341,0,2026-05-06,,,,0,0,,,,,Preterm birth,0,study outcome
+1195,1342,0,2025-03-08,,,,0,0,,,,,History of preterm birth,0,baseline history
+1196,1346,0,2025-08-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1197,1347,0,2025-08-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1198,1349,0,2025-08-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1199,1349,0,2025-03-15,,,,0,0,,,,,History of preterm birth,0,baseline history
+1200,1355,0,2025-08-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1201,1356,0,2025-08-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1202,1356,0,2025-08-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+1203,1356,0,2026-05-21,,,,0,0,,,,,Preterm birth,0,study outcome
+1204,1357,0,2026-05-22,,,,0,0,,,,,Preterm birth,0,study outcome
+1205,1358,0,2025-08-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1206,1359,0,2025-08-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1207,1359,0,2025-03-25,,,,0,0,,,,,History of preterm birth,0,baseline history
+1208,1360,0,2025-08-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1209,1361,0,2025-08-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1210,1362,0,2025-08-25,,,,0,0,,,,,Hypertension,0,baseline confounder
+1211,1363,0,2025-08-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1212,1363,0,2025-08-26,,,,0,0,,,,,Hypertension,0,baseline confounder
+1213,1364,0,2025-08-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1214,1364,0,2025-03-30,,,,0,0,,,,,History of preterm birth,0,baseline history
+1215,1364,0,2026-05-29,,,,0,0,,,,,Preterm birth,0,study outcome
+1216,1365,0,2025-08-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1217,1366,0,2026-05-31,,,,0,0,,,,,Preterm birth,0,study outcome
+1218,1371,0,2025-09-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1219,1371,0,2025-04-06,,,,0,0,,,,,History of preterm birth,0,baseline history
+1220,1371,0,2026-06-05,,,,0,0,,,,,Preterm birth,0,study outcome
+1221,1373,0,2025-09-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1222,1375,0,2025-09-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1223,1375,0,2026-06-09,,,,0,0,,,,,Preterm birth,0,study outcome
+1224,1376,0,2025-09-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+1225,1376,0,2025-04-11,,,,0,0,,,,,History of preterm birth,0,baseline history
+1226,1376,0,2026-06-10,,,,0,0,,,,,Preterm birth,0,study outcome
+1227,1378,0,2025-09-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1228,1379,0,2025-09-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1229,1380,0,2025-09-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1230,1381,0,2026-06-15,,,,0,0,,,,,Preterm birth,0,study outcome
+1231,1383,0,2025-09-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1232,1383,0,2025-09-15,,,,0,0,,,,,Hypertension,0,baseline confounder
+1233,1383,0,2026-06-17,,,,0,0,,,,,Preterm birth,0,study outcome
+1234,1385,0,2025-09-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1235,1387,0,2025-09-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+1236,1389,0,2025-09-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+1237,1390,0,2025-09-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1238,1390,0,2025-09-22,,,,0,0,,,,,Hypertension,0,baseline confounder
+1239,1391,0,2025-09-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1240,1391,0,2025-04-26,,,,0,0,,,,,History of preterm birth,0,baseline history
+1241,1391,0,2026-06-25,,,,0,0,,,,,Preterm birth,0,study outcome
+1242,1392,0,2025-09-24,,,,0,0,,,,,Hypertension,0,baseline confounder
+1243,1393,0,2025-09-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1244,1393,0,2025-09-25,,,,0,0,,,,,Hypertension,0,baseline confounder
+1245,1397,0,2025-09-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1246,1398,0,2025-09-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1247,1399,0,2025-10-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1248,1399,0,2026-07-03,,,,0,0,,,,,Preterm birth,0,study outcome
+1249,1400,0,2025-10-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1250,1401,0,2025-10-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1251,1402,0,2025-10-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1252,1403,0,2025-10-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1253,1403,0,2025-10-05,,,,0,0,,,,,Hypertension,0,baseline confounder
+1254,1404,0,2025-10-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1255,1408,0,2025-10-10,,,,0,0,,,,,Hypertension,0,baseline confounder
+1256,1409,0,2025-10-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1257,1411,0,2025-10-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1258,1411,0,2025-10-13,,,,0,0,,,,,Hypertension,0,baseline confounder
+1259,1411,0,2026-07-15,,,,0,0,,,,,Preterm birth,0,study outcome
+1260,1412,0,2025-10-14,,,,0,0,,,,,Hypertension,0,baseline confounder
+1261,1415,0,2025-10-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1262,1418,0,2025-10-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1263,1419,0,2025-10-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1264,1419,0,2025-10-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+1265,1422,0,2025-10-24,,,,0,0,,,,,Hypertension,0,baseline confounder
+1266,1422,0,2026-07-26,,,,0,0,,,,,Preterm birth,0,study outcome
+1267,1423,0,2025-10-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1268,1424,0,2025-10-26,,,,0,0,,,,,Hypertension,0,baseline confounder
+1269,1424,0,2025-05-29,,,,0,0,,,,,History of preterm birth,0,baseline history
+1270,1424,0,2026-07-28,,,,0,0,,,,,Preterm birth,0,study outcome
+1271,1425,0,2025-10-27,,,,0,0,,,,,Hypertension,0,baseline confounder
+1272,1426,0,2026-07-30,,,,0,0,,,,,Preterm birth,0,study outcome
+1273,1428,0,2025-10-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1274,1432,0,2025-11-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+1275,1433,0,2026-08-06,,,,0,0,,,,,Preterm birth,0,study outcome
+1276,1434,0,2025-11-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1277,1434,0,2025-06-08,,,,0,0,,,,,History of preterm birth,0,baseline history
+1278,1435,0,2025-11-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1279,1436,0,2025-11-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1280,1436,0,2025-06-10,,,,0,0,,,,,History of preterm birth,0,baseline history
+1281,1437,0,2025-11-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1282,1437,0,2025-11-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+1283,1438,0,2025-11-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1284,1440,0,2025-11-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1285,1440,0,2025-06-14,,,,0,0,,,,,History of preterm birth,0,baseline history
+1286,1440,0,2026-08-13,,,,0,0,,,,,Preterm birth,0,study outcome
+1287,1441,0,2025-11-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1288,1442,0,2025-11-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1289,1444,0,2026-08-17,,,,0,0,,,,,Preterm birth,0,study outcome
+1290,1445,0,2025-11-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1291,1445,0,2025-11-16,,,,0,0,,,,,Hypertension,0,baseline confounder
+1292,1445,0,2026-08-18,,,,0,0,,,,,Preterm birth,0,study outcome
+1293,1446,0,2025-11-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1294,1446,0,2025-11-17,,,,0,0,,,,,Hypertension,0,baseline confounder
+1295,1446,0,2025-06-20,,,,0,0,,,,,History of preterm birth,0,baseline history
+1296,1446,0,2026-08-19,,,,0,0,,,,,Preterm birth,0,study outcome
+1297,1447,0,2025-11-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1298,1448,0,2025-11-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+1299,1451,0,2025-11-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1300,1454,0,2025-11-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1301,1454,0,2026-08-27,,,,0,0,,,,,Preterm birth,0,study outcome
+1302,1456,0,2025-11-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1303,1456,0,2026-08-29,,,,0,0,,,,,Preterm birth,0,study outcome
+1304,1457,0,2026-08-30,,,,0,0,,,,,Preterm birth,0,study outcome
+1305,1458,0,2025-11-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1306,1459,0,2025-11-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1307,1459,0,2025-11-30,,,,0,0,,,,,Hypertension,0,baseline confounder
+1308,1460,0,2025-12-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1309,1461,0,2024-12-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1310,1465,0,2024-12-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1311,1466,0,2024-12-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1312,1466,0,2024-12-07,,,,0,0,,,,,Hypertension,0,baseline confounder
+1313,1468,0,2024-12-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1314,1468,0,2024-12-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+1315,1468,0,2025-09-10,,,,0,0,,,,,Preterm birth,0,study outcome
+1316,1470,0,2024-12-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1317,1471,0,2024-12-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1318,1471,0,2024-12-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+1319,1471,0,2024-07-15,,,,0,0,,,,,History of preterm birth,0,baseline history
+1320,1471,0,2025-09-13,,,,0,0,,,,,Preterm birth,0,study outcome
+1321,1475,0,2024-12-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1322,1475,0,2024-12-16,,,,0,0,,,,,Hypertension,0,baseline confounder
+1323,1475,0,2025-09-17,,,,0,0,,,,,Preterm birth,0,study outcome
+1324,1477,0,2025-09-19,,,,0,0,,,,,Preterm birth,0,study outcome
+1325,1479,0,2024-12-20,,,,0,0,,,,,Hypertension,0,baseline confounder
+1326,1481,0,2024-12-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1327,1483,0,2024-12-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1328,1483,0,2025-09-25,,,,0,0,,,,,Preterm birth,0,study outcome
+1329,1484,0,2024-12-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1330,1484,0,2025-09-26,,,,0,0,,,,,Preterm birth,0,study outcome
+1331,1485,0,2025-09-27,,,,0,0,,,,,Preterm birth,0,study outcome
+1332,1487,0,2024-12-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1333,1487,0,2025-09-29,,,,0,0,,,,,Preterm birth,0,study outcome
+1334,1488,0,2024-12-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1335,1488,0,2024-12-29,,,,0,0,,,,,Hypertension,0,baseline confounder
+1336,1490,0,2024-12-31,,,,0,0,,,,,Hypertension,0,baseline confounder
+1337,1492,0,2025-01-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1338,1492,0,2025-01-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+1339,1492,0,2024-08-05,,,,0,0,,,,,History of preterm birth,0,baseline history
+1340,1492,0,2025-10-04,,,,0,0,,,,,Preterm birth,0,study outcome
+1341,1493,0,2025-10-05,,,,0,0,,,,,Preterm birth,0,study outcome
+1342,1495,0,2025-01-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1343,1495,0,2025-01-05,,,,0,0,,,,,Hypertension,0,baseline confounder
+1344,1495,0,2025-10-07,,,,0,0,,,,,Preterm birth,0,study outcome
+1345,1496,0,2025-01-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1346,1496,0,2025-01-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+1347,1499,0,2025-01-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1348,1499,0,2024-08-12,,,,0,0,,,,,History of preterm birth,0,baseline history
+1349,1502,0,2025-01-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1350,1503,0,2025-01-13,,,,0,0,,,,,Hypertension,0,baseline confounder
+1351,1504,0,2025-01-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1352,1505,0,2025-01-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1353,1508,0,2025-01-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1354,1509,0,2025-01-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1355,1510,0,2025-01-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1356,1510,0,2024-08-23,,,,0,0,,,,,History of preterm birth,0,baseline history
+1357,1511,0,2025-01-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1358,1511,0,2025-01-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+1359,1513,0,2025-01-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1360,1515,0,2025-01-25,,,,0,0,,,,,Hypertension,0,baseline confounder
+1361,1517,0,2024-08-30,,,,0,0,,,,,History of preterm birth,0,baseline history
+1362,1517,0,2025-10-29,,,,0,0,,,,,Preterm birth,0,study outcome
+1363,1518,0,2025-01-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1364,1519,0,2025-01-29,,,,0,0,,,,,Hypertension,0,baseline confounder
+1365,1522,0,2025-02-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1366,1522,0,2025-02-01,,,,0,0,,,,,Hypertension,0,baseline confounder
+1367,1523,0,2025-02-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1368,1523,0,2025-11-04,,,,0,0,,,,,Preterm birth,0,study outcome
+1369,1524,0,2025-11-05,,,,0,0,,,,,Preterm birth,0,study outcome
+1370,1527,0,2025-02-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1371,1528,0,2025-02-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1372,1528,0,2025-11-09,,,,0,0,,,,,Preterm birth,0,study outcome
+1373,1530,0,2025-02-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1374,1531,0,2025-02-10,,,,0,0,,,,,Hypertension,0,baseline confounder
+1375,1532,0,2025-02-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1376,1535,0,2025-11-16,,,,0,0,,,,,Preterm birth,0,study outcome
+1377,1536,0,2025-11-17,,,,0,0,,,,,Preterm birth,0,study outcome
+1378,1537,0,2025-02-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1379,1537,0,2025-11-18,,,,0,0,,,,,Preterm birth,0,study outcome
+1380,1538,0,2025-02-17,,,,0,0,,,,,Hypertension,0,baseline confounder
+1381,1538,0,2025-11-19,,,,0,0,,,,,Preterm birth,0,study outcome
+1382,1539,0,2025-02-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1383,1540,0,2025-02-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1384,1540,0,2025-02-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+1385,1541,0,2025-02-20,,,,0,0,,,,,Hypertension,0,baseline confounder
+1386,1543,0,2024-09-25,,,,0,0,,,,,History of preterm birth,0,baseline history
+1387,1544,0,2025-02-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1388,1544,0,2025-02-23,,,,0,0,,,,,Hypertension,0,baseline confounder
+1389,1545,0,2025-02-24,,,,0,0,,,,,Hypertension,0,baseline confounder
+1390,1548,0,2025-02-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1391,1549,0,2025-02-28,,,,0,0,,,,,Hypertension,0,baseline confounder
+1392,1549,0,2025-11-30,,,,0,0,,,,,Preterm birth,0,study outcome
+1393,1551,0,2024-10-03,,,,0,0,,,,,History of preterm birth,0,baseline history
+1394,1551,0,2025-12-02,,,,0,0,,,,,Preterm birth,0,study outcome
+1395,1552,0,2025-03-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+1396,1553,0,2025-03-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1397,1554,0,2025-12-05,,,,0,0,,,,,Preterm birth,0,study outcome
+1398,1555,0,2025-03-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1399,1556,0,2025-03-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1400,1556,0,2025-03-07,,,,0,0,,,,,Hypertension,0,baseline confounder
+1401,1556,0,2024-10-08,,,,0,0,,,,,History of preterm birth,0,baseline history
+1402,1557,0,2025-03-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1403,1558,0,2025-03-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1404,1559,0,2025-12-10,,,,0,0,,,,,Preterm birth,0,study outcome
+1405,1561,0,2025-03-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1406,1561,0,2025-12-12,,,,0,0,,,,,Preterm birth,0,study outcome
+1407,1563,0,2025-03-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1408,1564,0,2025-03-15,,,,0,0,,,,,Hypertension,0,baseline confounder
+1409,1565,0,2025-03-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1410,1565,0,2025-03-16,,,,0,0,,,,,Hypertension,0,baseline confounder
+1411,1565,0,2025-12-16,,,,0,0,,,,,Preterm birth,0,study outcome
+1412,1566,0,2025-03-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1413,1569,0,2025-03-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1414,1569,0,2025-03-20,,,,0,0,,,,,Hypertension,0,baseline confounder
+1415,1570,0,2025-03-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1416,1572,0,2025-03-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1417,1572,0,2024-10-24,,,,0,0,,,,,History of preterm birth,0,baseline history
+1418,1575,0,2025-03-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1419,1576,0,2025-03-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1420,1577,0,2025-03-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1421,1578,0,2025-03-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1422,1578,0,2024-10-30,,,,0,0,,,,,History of preterm birth,0,baseline history
+1423,1580,0,2025-03-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1424,1580,0,2025-12-31,,,,0,0,,,,,Preterm birth,0,study outcome
+1425,1588,0,2025-04-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+1426,1589,0,2025-04-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1427,1592,0,2025-04-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1428,1593,0,2025-04-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1429,1593,0,2026-01-13,,,,0,0,,,,,Preterm birth,0,study outcome
+1430,1594,0,2025-04-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1431,1596,0,2025-04-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1432,1598,0,2025-04-18,,,,0,0,,,,,Hypertension,0,baseline confounder
+1433,1599,0,2025-04-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+1434,1600,0,2025-04-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1435,1600,0,2026-01-20,,,,0,0,,,,,Preterm birth,0,study outcome
+1436,1603,0,2026-01-23,,,,0,0,,,,,Preterm birth,0,study outcome
+1437,1604,0,2025-04-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1438,1604,0,2026-01-24,,,,0,0,,,,,Preterm birth,0,study outcome
+1439,1605,0,2025-04-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1440,1607,0,2025-04-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1441,1609,0,2025-04-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1442,1609,0,2026-01-29,,,,0,0,,,,,Preterm birth,0,study outcome
+1443,1610,0,2025-04-30,,,,0,0,,,,,Hypertension,0,baseline confounder
+1444,1611,0,2025-05-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1445,1613,0,2025-05-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1446,1613,0,2026-02-02,,,,0,0,,,,,Preterm birth,0,study outcome
+1447,1614,0,2024-12-05,,,,0,0,,,,,History of preterm birth,0,baseline history
+1448,1614,0,2026-02-03,,,,0,0,,,,,Preterm birth,0,study outcome
+1449,1615,0,2026-02-04,,,,0,0,,,,,Preterm birth,0,study outcome
+1450,1619,0,2025-05-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1451,1621,0,2025-05-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1452,1622,0,2025-05-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1453,1622,0,2026-02-11,,,,0,0,,,,,Preterm birth,0,study outcome
+1454,1623,0,2025-05-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1455,1624,0,2025-05-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1456,1625,0,2025-05-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1457,1625,0,2025-05-15,,,,0,0,,,,,Hypertension,0,baseline confounder
+1458,1625,0,2026-02-14,,,,0,0,,,,,Preterm birth,0,study outcome
+1459,1627,0,2025-05-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1460,1627,0,2024-12-18,,,,0,0,,,,,History of preterm birth,0,baseline history
+1461,1627,0,2026-02-16,,,,0,0,,,,,Preterm birth,0,study outcome
+1462,1629,0,2025-05-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1463,1629,0,2025-05-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+1464,1630,0,2025-05-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1465,1630,0,2025-05-20,,,,0,0,,,,,Hypertension,0,baseline confounder
+1466,1634,0,2025-05-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1467,1635,0,2025-05-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1468,1636,0,2026-02-25,,,,0,0,,,,,Preterm birth,0,study outcome
+1469,1637,0,2025-05-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1470,1638,0,2025-05-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1471,1639,0,2025-05-29,,,,0,0,,,,,Hypertension,0,baseline confounder
+1472,1639,0,2026-02-28,,,,0,0,,,,,Preterm birth,0,study outcome
+1473,1641,0,2025-05-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1474,1642,0,2025-06-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1475,1643,0,2025-06-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1476,1643,0,2025-06-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+1477,1643,0,2026-03-04,,,,0,0,,,,,Preterm birth,0,study outcome
+1478,1644,0,2025-06-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+1479,1644,0,2026-03-05,,,,0,0,,,,,Preterm birth,0,study outcome
+1480,1646,0,2026-03-07,,,,0,0,,,,,Preterm birth,0,study outcome
+1481,1647,0,2025-06-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+1482,1649,0,2025-06-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1483,1649,0,2026-03-10,,,,0,0,,,,,Preterm birth,0,study outcome
+1484,1651,0,2025-06-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1485,1651,0,2025-01-11,,,,0,0,,,,,History of preterm birth,0,baseline history
+1486,1651,0,2026-03-12,,,,0,0,,,,,Preterm birth,0,study outcome
+1487,1652,0,2025-01-12,,,,0,0,,,,,History of preterm birth,0,baseline history
+1488,1653,0,2025-06-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1489,1653,0,2025-06-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+1490,1654,0,2025-01-14,,,,0,0,,,,,History of preterm birth,0,baseline history
+1491,1654,0,2026-03-15,,,,0,0,,,,,Preterm birth,0,study outcome
+1492,1656,0,2026-03-17,,,,0,0,,,,,Preterm birth,0,study outcome
+1493,1657,0,2025-06-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1494,1657,0,2026-03-18,,,,0,0,,,,,Preterm birth,0,study outcome
+1495,1658,0,2025-06-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1496,1661,0,2025-06-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1497,1661,0,2026-03-22,,,,0,0,,,,,Preterm birth,0,study outcome
+1498,1664,0,2025-06-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1499,1664,0,2025-06-23,,,,0,0,,,,,Hypertension,0,baseline confounder
+1500,1664,0,2026-03-25,,,,0,0,,,,,Preterm birth,0,study outcome
+1501,1665,0,2025-06-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1502,1666,0,2026-03-27,,,,0,0,,,,,Preterm birth,0,study outcome
+1503,1667,0,2025-01-27,,,,0,0,,,,,History of preterm birth,0,baseline history
+1504,1668,0,2025-06-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1505,1671,0,2025-06-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1506,1672,0,2025-07-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1507,1673,0,2026-04-03,,,,0,0,,,,,Preterm birth,0,study outcome
+1508,1674,0,2025-07-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1509,1675,0,2025-07-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1510,1677,0,2025-07-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1511,1680,0,2025-07-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1512,1683,0,2025-07-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+1513,1684,0,2025-07-13,,,,0,0,,,,,Hypertension,0,baseline confounder
+1514,1685,0,2025-07-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1515,1686,0,2025-07-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1516,1687,0,2025-07-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1517,1690,0,2026-04-20,,,,0,0,,,,,Preterm birth,0,study outcome
+1518,1691,0,2026-04-21,,,,0,0,,,,,Preterm birth,0,study outcome
+1519,1692,0,2025-07-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+1520,1693,0,2025-07-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1521,1693,0,2026-04-23,,,,0,0,,,,,Preterm birth,0,study outcome
+1522,1694,0,2025-07-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1523,1694,0,2025-07-23,,,,0,0,,,,,Hypertension,0,baseline confounder
+1524,1695,0,2025-07-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1525,1696,0,2025-02-25,,,,0,0,,,,,History of preterm birth,0,baseline history
+1526,1697,0,2025-07-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1527,1700,0,2025-07-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1528,1701,0,2025-07-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1529,1703,0,2025-08-01,,,,0,0,,,,,Hypertension,0,baseline confounder
+1530,1704,0,2026-05-04,,,,0,0,,,,,Preterm birth,0,study outcome
+1531,1705,0,2025-08-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1532,1705,0,2025-08-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+1533,1706,0,2025-03-07,,,,0,0,,,,,History of preterm birth,0,baseline history
+1534,1707,0,2025-08-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1535,1710,0,2025-08-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+1536,1713,0,2025-08-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1537,1714,0,2025-08-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1538,1715,0,2025-08-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1539,1716,0,2025-08-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1540,1716,0,2025-03-17,,,,0,0,,,,,History of preterm birth,0,baseline history
+1541,1717,0,2025-08-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1542,1718,0,2025-08-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1543,1718,0,2026-05-18,,,,0,0,,,,,Preterm birth,0,study outcome
+1544,1719,0,2025-08-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1545,1719,0,2025-08-17,,,,0,0,,,,,Hypertension,0,baseline confounder
+1546,1722,0,2025-03-23,,,,0,0,,,,,History of preterm birth,0,baseline history
+1547,1722,0,2026-05-22,,,,0,0,,,,,Preterm birth,0,study outcome
+1548,1724,0,2025-03-25,,,,0,0,,,,,History of preterm birth,0,baseline history
+1549,1725,0,2025-08-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1550,1728,0,2026-05-28,,,,0,0,,,,,Preterm birth,0,study outcome
+1551,1732,0,2025-08-30,,,,0,0,,,,,Hypertension,0,baseline confounder
+1552,1734,0,2025-09-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1553,1734,0,2025-09-01,,,,0,0,,,,,Hypertension,0,baseline confounder
+1554,1735,0,2025-09-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1555,1735,0,2026-06-04,,,,0,0,,,,,Preterm birth,0,study outcome
+1556,1739,0,2025-09-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1557,1741,0,2025-09-08,,,,0,0,,,,,Hypertension,0,baseline confounder
+1558,1742,0,2025-09-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1559,1746,0,2025-09-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1560,1746,0,2025-04-16,,,,0,0,,,,,History of preterm birth,0,baseline history
+1561,1747,0,2025-09-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1562,1747,0,2026-06-16,,,,0,0,,,,,Preterm birth,0,study outcome
+1563,1748,0,2025-09-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1564,1750,0,2025-09-17,,,,0,0,,,,,Hypertension,0,baseline confounder
+1565,1751,0,2025-09-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1566,1752,0,2025-09-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1567,1753,0,2025-09-20,,,,0,0,,,,,Hypertension,0,baseline confounder
+1568,1753,0,2025-04-23,,,,0,0,,,,,History of preterm birth,0,baseline history
+1569,1753,0,2026-06-22,,,,0,0,,,,,Preterm birth,0,study outcome
+1570,1754,0,2025-09-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1571,1757,0,2025-09-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1572,1759,0,2025-09-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1573,1759,0,2026-06-28,,,,0,0,,,,,Preterm birth,0,study outcome
+1574,1761,0,2026-06-30,,,,0,0,,,,,Preterm birth,0,study outcome
+1575,1762,0,2025-09-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1576,1763,0,2025-09-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1577,1763,0,2025-09-30,,,,0,0,,,,,Hypertension,0,baseline confounder
+1578,1765,0,2025-05-05,,,,0,0,,,,,History of preterm birth,0,baseline history
+1579,1766,0,2025-10-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1580,1766,0,2026-07-05,,,,0,0,,,,,Preterm birth,0,study outcome
+1581,1767,0,2025-10-04,,,,0,0,,,,,Hypertension,0,baseline confounder
+1582,1768,0,2025-10-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1583,1768,0,2026-07-07,,,,0,0,,,,,Preterm birth,0,study outcome
+1584,1769,0,2025-10-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1585,1770,0,2025-10-07,,,,0,0,,,,,Hypertension,0,baseline confounder
+1586,1771,0,2026-07-10,,,,0,0,,,,,Preterm birth,0,study outcome
+1587,1772,0,2025-10-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+1588,1773,0,2025-10-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1589,1775,0,2025-10-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+1590,1775,0,2025-05-15,,,,0,0,,,,,History of preterm birth,0,baseline history
+1591,1775,0,2026-07-14,,,,0,0,,,,,Preterm birth,0,study outcome
+1592,1777,0,2025-10-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1593,1779,0,2025-10-16,,,,0,0,,,,,Hypertension,0,baseline confounder
+1594,1780,0,2025-10-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1595,1781,0,2025-10-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1596,1782,0,2025-10-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1597,1785,0,2025-10-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1598,1787,0,2025-10-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1599,1788,0,2025-10-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1600,1790,0,2025-10-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1601,1790,0,2025-10-27,,,,0,0,,,,,Hypertension,0,baseline confounder
+1602,1790,0,2025-05-30,,,,0,0,,,,,History of preterm birth,0,baseline history
+1603,1790,0,2026-07-29,,,,0,0,,,,,Preterm birth,0,study outcome
+1604,1791,0,2025-10-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1605,1791,0,2025-10-28,,,,0,0,,,,,Hypertension,0,baseline confounder
+1606,1791,0,2026-07-30,,,,0,0,,,,,Preterm birth,0,study outcome
+1607,1797,0,2025-11-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1608,1797,0,2026-08-05,,,,0,0,,,,,Preterm birth,0,study outcome
+1609,1798,0,2025-11-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1610,1799,0,2025-11-05,,,,0,0,,,,,Hypertension,0,baseline confounder
+1611,1801,0,2025-11-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1612,1803,0,2025-11-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1613,1803,0,2025-11-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+1614,1803,0,2025-06-12,,,,0,0,,,,,History of preterm birth,0,baseline history
+1615,1807,0,2025-11-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1616,1809,0,2025-11-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1617,1813,0,2025-11-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1618,1813,0,2025-11-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+1619,1814,0,2025-11-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1620,1817,0,2025-06-26,,,,0,0,,,,,History of preterm birth,0,baseline history
+1621,1820,0,2025-11-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1622,1820,0,2025-11-26,,,,0,0,,,,,Hypertension,0,baseline confounder
+1623,1821,0,2025-11-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1624,1821,0,2025-11-27,,,,0,0,,,,,Hypertension,0,baseline confounder
+1625,1822,0,2025-07-01,,,,0,0,,,,,History of preterm birth,0,baseline history
+1626,1824,0,2025-11-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1627,1825,0,2025-12-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1628,1828,0,2024-12-04,,,,0,0,,,,,Hypertension,0,baseline confounder
+1629,1830,0,2024-12-06,,,,0,0,,,,,Hypertension,0,baseline confounder
+1630,1832,0,2024-12-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1631,1836,0,2024-12-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1632,1837,0,2024-12-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1633,1837,0,2025-09-14,,,,0,0,,,,,Preterm birth,0,study outcome
+1634,1838,0,2024-12-14,,,,0,0,,,,,Hypertension,0,baseline confounder
+1635,1839,0,2025-09-16,,,,0,0,,,,,Preterm birth,0,study outcome
+1636,1840,0,2024-12-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1637,1840,0,2024-07-19,,,,0,0,,,,,History of preterm birth,0,baseline history
+1638,1841,0,2024-12-17,,,,0,0,,,,,Hypertension,0,baseline confounder
+1639,1841,0,2024-07-20,,,,0,0,,,,,History of preterm birth,0,baseline history
+1640,1846,0,2024-12-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1641,1846,0,2024-12-22,,,,0,0,,,,,Hypertension,0,baseline confounder
+1642,1846,0,2025-09-23,,,,0,0,,,,,Preterm birth,0,study outcome
+1643,1847,0,2024-12-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1644,1848,0,2025-09-25,,,,0,0,,,,,Preterm birth,0,study outcome
+1645,1849,0,2024-12-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1646,1852,0,2024-12-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1647,1852,0,2024-12-28,,,,0,0,,,,,Hypertension,0,baseline confounder
+1648,1852,0,2024-07-31,,,,0,0,,,,,History of preterm birth,0,baseline history
+1649,1852,0,2025-09-29,,,,0,0,,,,,Preterm birth,0,study outcome
+1650,1853,0,2024-12-29,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1651,1854,0,2025-10-01,,,,0,0,,,,,Preterm birth,0,study outcome
+1652,1856,0,2025-01-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1653,1857,0,2025-01-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1654,1858,0,2025-01-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1655,1858,0,2025-01-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+1656,1863,0,2025-01-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1657,1866,0,2025-01-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1658,1866,0,2025-01-11,,,,0,0,,,,,Hypertension,0,baseline confounder
+1659,1868,0,2025-10-15,,,,0,0,,,,,Preterm birth,0,study outcome
+1660,1869,0,2025-01-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1661,1869,0,2025-10-16,,,,0,0,,,,,Preterm birth,0,study outcome
+1662,1870,0,2025-01-15,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1663,1871,0,2025-01-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1664,1871,0,2025-01-16,,,,0,0,,,,,Hypertension,0,baseline confounder
+1665,1871,0,2025-10-18,,,,0,0,,,,,Preterm birth,0,study outcome
+1666,1872,0,2025-01-17,,,,0,0,,,,,Hypertension,0,baseline confounder
+1667,1873,0,2025-01-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1668,1874,0,2025-01-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1669,1874,0,2025-01-19,,,,0,0,,,,,Hypertension,0,baseline confounder
+1670,1875,0,2025-10-22,,,,0,0,,,,,Preterm birth,0,study outcome
+1671,1876,0,2025-01-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+1672,1877,0,2025-01-22,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1673,1877,0,2025-10-24,,,,0,0,,,,,Preterm birth,0,study outcome
+1674,1878,0,2025-10-25,,,,0,0,,,,,Preterm birth,0,study outcome
+1675,1879,0,2025-01-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1676,1880,0,2025-01-25,,,,0,0,,,,,Hypertension,0,baseline confounder
+1677,1883,0,2025-01-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1678,1885,0,2024-09-02,,,,0,0,,,,,History of preterm birth,0,baseline history
+1679,1886,0,2025-01-31,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1680,1886,0,2025-01-31,,,,0,0,,,,,Hypertension,0,baseline confounder
+1681,1887,0,2025-02-01,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1682,1888,0,2025-02-02,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1683,1888,0,2025-02-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+1684,1888,0,2024-09-05,,,,0,0,,,,,History of preterm birth,0,baseline history
+1685,1891,0,2025-02-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1686,1892,0,2025-02-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1687,1892,0,2025-11-08,,,,0,0,,,,,Preterm birth,0,study outcome
+1688,1895,0,2025-02-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1689,1895,0,2025-11-11,,,,0,0,,,,,Preterm birth,0,study outcome
+1690,1897,0,2025-02-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1691,1897,0,2025-11-13,,,,0,0,,,,,Preterm birth,0,study outcome
+1692,1900,0,2025-02-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1693,1900,0,2024-09-17,,,,0,0,,,,,History of preterm birth,0,baseline history
+1694,1900,0,2025-11-16,,,,0,0,,,,,Preterm birth,0,study outcome
+1695,1903,0,2024-09-20,,,,0,0,,,,,History of preterm birth,0,baseline history
+1696,1903,0,2025-11-19,,,,0,0,,,,,Preterm birth,0,study outcome
+1697,1905,0,2025-02-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1698,1905,0,2025-11-21,,,,0,0,,,,,Preterm birth,0,study outcome
+1699,1906,0,2025-02-20,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1700,1907,0,2025-02-21,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1701,1907,0,2025-11-23,,,,0,0,,,,,Preterm birth,0,study outcome
+1702,1911,0,2025-02-25,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1703,1912,0,2025-02-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1704,1912,0,2024-09-29,,,,0,0,,,,,History of preterm birth,0,baseline history
+1705,1912,0,2025-11-28,,,,0,0,,,,,Preterm birth,0,study outcome
+1706,1913,0,2025-02-27,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1707,1914,0,2024-10-01,,,,0,0,,,,,History of preterm birth,0,baseline history
+1708,1915,0,2024-10-02,,,,0,0,,,,,History of preterm birth,0,baseline history
+1709,1916,0,2025-03-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+1710,1916,0,2025-12-02,,,,0,0,,,,,Preterm birth,0,study outcome
+1711,1917,0,2025-03-03,,,,0,0,,,,,Hypertension,0,baseline confounder
+1712,1919,0,2025-03-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1713,1919,0,2024-10-06,,,,0,0,,,,,History of preterm birth,0,baseline history
+1714,1923,0,2025-03-09,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1715,1924,0,2025-03-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1716,1924,0,2024-10-11,,,,0,0,,,,,History of preterm birth,0,baseline history
+1717,1924,0,2025-12-10,,,,0,0,,,,,Preterm birth,0,study outcome
+1718,1925,0,2025-03-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1719,1926,0,2025-03-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1720,1926,0,2025-03-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+1721,1928,0,2025-03-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1722,1928,0,2025-03-14,,,,0,0,,,,,Hypertension,0,baseline confounder
+1723,1929,0,2025-03-15,,,,0,0,,,,,Hypertension,0,baseline confounder
+1724,1929,0,2024-10-16,,,,0,0,,,,,History of preterm birth,0,baseline history
+1725,1931,0,2025-03-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1726,1931,0,2024-10-18,,,,0,0,,,,,History of preterm birth,0,baseline history
+1727,1932,0,2025-03-18,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1728,1935,0,2024-10-22,,,,0,0,,,,,History of preterm birth,0,baseline history
+1729,1935,0,2025-12-21,,,,0,0,,,,,Preterm birth,0,study outcome
+1730,1936,0,2024-10-23,,,,0,0,,,,,History of preterm birth,0,baseline history
+1731,1939,0,2025-12-25,,,,0,0,,,,,Preterm birth,0,study outcome
+1732,1940,0,2025-03-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1733,1940,0,2025-12-26,,,,0,0,,,,,Preterm birth,0,study outcome
+1734,1942,0,2025-12-28,,,,0,0,,,,,Preterm birth,0,study outcome
+1735,1943,0,2024-10-30,,,,0,0,,,,,History of preterm birth,0,baseline history
+1736,1944,0,2025-03-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1737,1944,0,2025-12-30,,,,0,0,,,,,Preterm birth,0,study outcome
+1738,1946,0,2025-04-01,,,,0,0,,,,,Hypertension,0,baseline confounder
+1739,1948,0,2025-04-03,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1740,1948,0,2024-11-04,,,,0,0,,,,,History of preterm birth,0,baseline history
+1741,1949,0,2025-04-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1742,1950,0,2025-04-05,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1743,1950,0,2025-04-05,,,,0,0,,,,,Hypertension,0,baseline confounder
+1744,1951,0,2025-04-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1745,1951,0,2024-11-07,,,,0,0,,,,,History of preterm birth,0,baseline history
+1746,1952,0,2025-04-07,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1747,1953,0,2025-04-08,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1748,1954,0,2026-01-09,,,,0,0,,,,,Preterm birth,0,study outcome
+1749,1956,0,2025-04-11,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1750,1956,0,2026-01-11,,,,0,0,,,,,Preterm birth,0,study outcome
+1751,1957,0,2025-04-12,,,,0,0,,,,,Hypertension,0,baseline confounder
+1752,1959,0,2025-04-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1753,1961,0,2025-04-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1754,1962,0,2025-04-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1755,1962,0,2025-04-17,,,,0,0,,,,,Hypertension,0,baseline confounder
+1756,1963,0,2026-01-18,,,,0,0,,,,,Preterm birth,0,study outcome
+1757,1964,0,2025-04-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1758,1965,0,2026-01-20,,,,0,0,,,,,Preterm birth,0,study outcome
+1759,1966,0,2025-04-21,,,,0,0,,,,,Hypertension,0,baseline confounder
+1760,1968,0,2025-04-23,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1761,1969,0,2025-04-24,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1762,1970,0,2026-01-25,,,,0,0,,,,,Preterm birth,0,study outcome
+1763,1971,0,2025-04-26,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1764,1971,0,2025-04-26,,,,0,0,,,,,Hypertension,0,baseline confounder
+1765,1971,0,2024-11-27,,,,0,0,,,,,History of preterm birth,0,baseline history
+1766,1973,0,2025-04-28,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1767,1975,0,2025-04-30,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1768,1977,0,2025-05-02,,,,0,0,,,,,Hypertension,0,baseline confounder
+1769,1977,0,2024-12-03,,,,0,0,,,,,History of preterm birth,0,baseline history
+1770,1979,0,2025-05-04,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1771,1979,0,2025-05-04,,,,0,0,,,,,Hypertension,0,baseline confounder
+1772,1979,0,2024-12-05,,,,0,0,,,,,History of preterm birth,0,baseline history
+1773,1981,0,2025-05-06,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1774,1981,0,2024-12-07,,,,0,0,,,,,History of preterm birth,0,baseline history
+1775,1981,0,2026-02-05,,,,0,0,,,,,Preterm birth,0,study outcome
+1776,1984,0,2025-05-09,,,,0,0,,,,,Hypertension,0,baseline confounder
+1777,1985,0,2025-05-10,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1778,1985,0,2025-05-10,,,,0,0,,,,,Hypertension,0,baseline confounder
+1779,1985,0,2026-02-09,,,,0,0,,,,,Preterm birth,0,study outcome
+1780,1987,0,2025-05-12,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1781,1987,0,2026-02-11,,,,0,0,,,,,Preterm birth,0,study outcome
+1782,1988,0,2025-05-13,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1783,1989,0,2025-05-14,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1784,1989,0,2025-05-14,,,,0,0,,,,,Hypertension,0,baseline confounder
+1785,1990,0,2025-05-15,,,,0,0,,,,,Hypertension,0,baseline confounder
+1786,1991,0,2025-05-16,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1787,1992,0,2025-05-17,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1788,1992,0,2024-12-18,,,,0,0,,,,,History of preterm birth,0,baseline history
+1789,1994,0,2025-05-19,,,,0,0,,,,,Diabetes mellitus,0,baseline confounder
+1790,1997,0,2024-12-23,,,,0,0,,,,,History of preterm birth,0,baseline history
+1791,1998,0,2026-02-22,,,,0,0,,,,,Preterm birth,0,study outcome
+1792,1999,0,2025-05-24,,,,0,0,,,,,Hypertension,0,baseline confounder
+1793,1999,0,2026-02-23,,,,0,0,,,,,Preterm birth,0,study outcome
+1794,2000,0,2026-02-24,,,,0,0,,,,,Preterm birth,0,study outcome
