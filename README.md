@@ -1,5 +1,7 @@
 # GLP-1 Target Trial Emulation
 
+**Portfolio baseline: v1.0.0**
+
 A reproducible real-world evidence project demonstrating how a hypothetical target trial can be emulated using synthetic longitudinal healthcare data.
 
 The project focuses on causal inference, propensity-score weighting, cohort comparability, and HTA-oriented evidence generation, with methodological links to External Control Arms and OMOP/EHDS-compatible real-world data workflows.
@@ -89,16 +91,16 @@ A commonly used balance threshold is:
 
 ## Balance Results
 
-Before IPTW, important baseline imbalances were present.
+Before IPTW, important baseline imbalances were present in the eligibility-aligned cohort.
 
 Examples:
 
 - Diabetes: SMD = 0.403
-- BMI: SMD = 0.157
-- Hypertension: SMD = 0.125
-- Prior preterm birth: SMD = 0.147
+- BMI: SMD = 0.154
+- Hypertension: SMD = 0.128
+- Prior preterm birth: SMD = 0.152
 
-After IPTW, all measured baseline covariates had absolute SMD values well below 0.10.
+After IPTW, all measured baseline covariates had absolute SMD values below 0.012.
 
 This demonstrates successful balance of the measured confounders in the synthetic cohort.
 
@@ -302,12 +304,41 @@ The broader objective is to demonstrate how real-world data can be transformed i
 
 ---
 
+## Reproducibility
+
+The exploratory notebook contains the original synthetic data-generation workflow.
+
+The **canonical portfolio analyses** live in the numbered scripts and enforce the target-trial eligibility criterion before effect estimation:
+
+1. `scripts/01_primary_analysis.py`
+2. `scripts/02_omop_transformation.py`
+3. `scripts/03_sensitivity_analysis.py`
+4. `scripts/04_external_control_arm.py`
+5. `scripts/05_pregnancy_safety_outcomes.py`
+
+Install dependencies with:
+
+`pip install -r requirements.txt`
+
+For application/CV use, the concise project handoff is available in:
+
+`docs/application_handoff.md`
+
+Version history is documented in:
+
+`CHANGELOG.md`
+
+---
+
 ## Repository Structure
 
 ```text
 GLP1-Target-Trial-Emulation/
 │
 ├── README.md
+├── VERSION
+├── CHANGELOG.md
+├── requirements.txt
 ├── protocol/
 │   └── target_trial_protocol.md
 │
@@ -334,7 +365,8 @@ GLP1-Target-Trial-Emulation/
 │   ├── sensitivity_analysis.md
 │   ├── external_control_arm.md
 │   ├── pregnancy_safety_outcomes.md
-│   └── hta_evidence_package.md
+│   ├── hta_evidence_package.md
+│   └── application_handoff.md
 ├── scripts/
 │   ├── 01_primary_analysis.py
 │   ├── 02_omop_transformation.py
@@ -399,6 +431,8 @@ GLP1-Target-Trial-Emulation/
 - Synthetic pregnancy medication-safety outcome expansion
 - Multi-outcome IPTW analysis with bootstrap uncertainty
 - Integrated HTA-oriented evidence package
+- Portfolio/application handoff documentation
+- v1.0.0 portfolio baseline
 
 ### Planned Extensions
 
