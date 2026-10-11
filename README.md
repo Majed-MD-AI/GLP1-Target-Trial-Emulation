@@ -152,19 +152,44 @@ The alternative 30-day exposure definition represents a different causal contras
 
 ---
 
-## External Control Arm Relevance
+## External Control Arm Demonstration
 
-Although this project is not itself a clinical-trial external control arm, it demonstrates several principles directly relevant to ECA development:
-- Explicit eligibility criteria
-- Alignment of time zero
-- Transparent cohort construction
-- Baseline comparability
-- Propensity-score adjustment
-- Balance diagnostics
-- Treatment-effect estimation
-- Sensitivity to residual confounding
+A dedicated synthetic External Control Arm (ECA) extension is now implemented.
 
-These principles are important when constructing real-world comparison cohorts for single-arm or externally controlled clinical studies.
+The index treated arm uses late preconception discontinuation (0–60 days) from the original target-trial cohort after enforcing the stated age eligibility criterion of 18–45 years.
+
+A separate synthetic external database provides early-discontinuation controls (61–180 days) with intentionally different baseline characteristics.
+
+The analysis:
+- aligns eligibility criteria
+- estimates index-vs-external membership propensity
+- applies ATT-style weighting to external controls
+- reassesses covariate balance
+- estimates comparative preterm-birth risk
+- quantifies uncertainty with a stratified bootstrap
+- evaluates common propensity-score support
+
+Main ECA result:
+- index treated risk: 21.15%
+- weighted external-control risk: 14.85%
+- risk difference: 6.30 percentage points
+- RD 95% CI: 3.50 to 9.27 percentage points
+- risk ratio: 1.42
+- RR 95% CI: 1.21 to 1.69
+
+Maximum absolute SMD improved from 0.347 before weighting to 0.038 after ATT weighting.
+
+![External control balance](figures/eca_balance.svg)
+
+Detailed files:
+- `data/synthetic_external_control.csv`
+- `scripts/04_external_control_arm.py`
+- `results/eca_results.csv`
+- `results/eca_balance.csv`
+- `results/eca_diagnostics.csv`
+- `docs/external_control_arm.md`
+
+This is a synthetic methodological ECA demonstration, not a clinically validated external comparator.
 
 ---
 
@@ -241,7 +266,8 @@ GLP1-Target-Trial-Emulation/
 │   └── target_trial_protocol.md
 │
 ├── data/
-│   └── synthetic_glp1_pregnancy.csv
+│   ├── synthetic_glp1_pregnancy.csv
+│   └── synthetic_external_control.csv
 │
 ├── notebooks/
 │   └── 01_generate_synthetic_data.ipynb
@@ -249,13 +275,18 @@ GLP1-Target-Trial-Emulation/
 ├── results/
 │   ├── hta_results_summary.csv
 │   ├── sensitivity_analysis.csv
-│   └── sensitivity_diagnostics.csv
+│   ├── sensitivity_diagnostics.csv
+│   ├── eca_results.csv
+│   ├── eca_balance.csv
+│   └── eca_diagnostics.csv
 ├── docs/
 │   ├── omop_mapping.md
-│   └── sensitivity_analysis.md
+│   ├── sensitivity_analysis.md
+│   └── external_control_arm.md
 ├── scripts/
 │   ├── 02_omop_transformation.py
-│   └── 03_sensitivity_analysis.py
+│   ├── 03_sensitivity_analysis.py
+│   └── 04_external_control_arm.py
 ├── omop_output/
 │   ├── README.md
 │   ├── person.csv
@@ -271,7 +302,8 @@ GLP1-Target-Trial-Emulation/
     ├── propensity_overlap.svg
     ├── iptw_distribution.svg
     ├── effect_estimates.svg
-    └── sensitivity_risk_ratios.svg
+    ├── sensitivity_risk_ratios.svg
+    └── eca_balance.svg
 ```
 
 ---
@@ -301,10 +333,15 @@ GLP1-Target-Trial-Emulation/
 - Propensity-score overlap figure
 - IPTW weight-distribution figure
 - Crude vs IPTW-adjusted effect-estimate figure
+- Synthetic External Control Arm demonstration
+- External-control eligibility alignment
+- ATT-style external-control weighting
+- External-control balance diagnostics
+- ECA common-support analysis
+- ECA bootstrap uncertainty estimation
 
 ### Planned Extensions
 
-- External Control Arm demonstration
 - Additional pregnancy outcomes
 - Expanded HTA-oriented evidence outputs
 - Optional validated OHDSI vocabulary mapping
