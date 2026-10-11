@@ -1,0 +1,14 @@
+check,value,status
+source_patients,2000,PASS
+person_rows,2000,PASS
+observation_period_rows,2000,PASS
+drug_exposure_rows,2000,PASS
+measurement_rows,2000,PASS
+observation_rows,2000,PASS
+analysis_cohort_rows,2000,PASS
+diabetes_condition_rows,866,PASS
+hypertension_condition_rows,366,PASS
+prior_preterm_history_rows,213,PASS
+preterm_outcome_rows,349,PASS
+condition_occurrence_total_expected,1794,PASS
+condition_occurrence_total_observed,1794,PASS
