@@ -33,7 +33,9 @@ protocol/target_trial_protocol.md
 
 ## Data
 
-This project uses a synthetic cohort of 2,000 patients.
+This project uses a synthetic source cohort of 2,000 patients.
+
+The target-trial protocol specifies age 18–45 years. After enforcing this criterion, the canonical primary analysis includes 1,987 eligible records. The 13 ineligible source records are retained in the raw synthetic dataset and documented in an eligibility audit rather than silently removed.
 
 Baseline variables include:
 
@@ -104,23 +106,31 @@ This demonstrates successful balance of the measured confounders in the syntheti
 
 ## Treatment Effect Results
 
+### Eligibility-Aligned Cohort
+
+- Source records: 2,000
+- Eligible analysis records: 1,987
+- Early discontinuation: 876
+- Late discontinuation: 1,111
+- Excluded for age outside 18–45 years: 13
+
 ### Crude Analysis
 
-- Early discontinuation risk: 12.68%
-- Late discontinuation risk: 21.22%
-- Risk difference: 8.53 percentage points
+- Early discontinuation risk: 12.67%
+- Late discontinuation risk: 21.15%
+- Risk difference: 8.48 percentage points
 - Risk ratio: 1.67
 
 ### IPTW-Adjusted Analysis
 
-- Early discontinuation risk: 14.29%
-- Late discontinuation risk: 19.88%
-- Risk difference: 5.58 percentage points
-- 95% CI: 2.5 to 9.0 percentage points
-- Risk ratio: 1.39
-- 95% CI: 1.15 to 1.71
+- Early discontinuation risk: 14.34%
+- Late discontinuation risk: 19.83%
+- Risk difference: 5.49 percentage points
+- 95% CI: 2.4 to 9.1 percentage points
+- Risk ratio: 1.38
+- 95% CI: 1.14 to 1.74
 
-The reduction from the crude RR of 1.67 to the IPTW-adjusted RR of 1.39 illustrates how baseline confounding can exaggerate an observational association.
+The reduction from the crude RR of 1.67 to the IPTW-adjusted RR of 1.38 illustrates how baseline confounding can exaggerate an observational association.
 
 These results are generated from synthetic data and must not be interpreted as clinical evidence regarding GLP-1 receptor agonists.
 
@@ -193,6 +203,31 @@ This is a synthetic methodological ECA demonstration, not a clinically validated
 
 ---
 
+## Pregnancy Medication-Safety Outcomes
+
+The original primary outcome remains preterm birth.
+
+The repository now also includes synthetic secondary pregnancy outcomes already prespecified in the protocol:
+
+- preeclampsia
+- small for gestational age
+- large for gestational age
+- congenital malformation
+
+Each outcome is analyzed in the eligibility-aligned cohort using propensity-score/IPTW adjustment and 300 bootstrap repetitions with propensity-score re-estimation.
+
+![Secondary pregnancy outcomes](figures/pregnancy_safety_outcomes.svg)
+
+Detailed files:
+- `data/synthetic_pregnancy_safety_outcomes.csv`
+- `scripts/05_pregnancy_safety_outcomes.py`
+- `results/pregnancy_safety_outcomes.csv`
+- `docs/pregnancy_safety_outcomes.md`
+
+These outcomes are synthetic methodological demonstrations and are not clinical evidence.
+
+---
+
 ## OMOP and EHDS Relevance
 
 An OMOP-inspired transformation layer is now included in the repository.
@@ -238,6 +273,17 @@ These figures are based on the synthetic cohort and are intended to make confoun
 
 ---
 
+## Integrated Evidence Package
+
+A consolidated HTA-oriented evidence summary is available in:
+
+- `docs/hta_evidence_package.md`
+- `results/evidence_summary.csv`
+
+The package integrates the target-trial design, eligibility audit, causal adjustment, robustness analyses, external-control demonstration, pregnancy-safety outcomes, OMOP-inspired transformation, EHDS framing, assumptions, and limitations.
+
+---
+
 ## HTA Evidence Generation
 
 The project emphasizes outputs that are useful in comparative-effectiveness and Health Technology Assessment workflows, including:
@@ -267,7 +313,8 @@ GLP1-Target-Trial-Emulation/
 │
 ├── data/
 │   ├── synthetic_glp1_pregnancy.csv
-│   └── synthetic_external_control.csv
+│   ├── synthetic_external_control.csv
+│   └── synthetic_pregnancy_safety_outcomes.csv
 │
 ├── notebooks/
 │   └── 01_generate_synthetic_data.ipynb
@@ -278,15 +325,22 @@ GLP1-Target-Trial-Emulation/
 │   ├── sensitivity_diagnostics.csv
 │   ├── eca_results.csv
 │   ├── eca_balance.csv
-│   └── eca_diagnostics.csv
+│   ├── eca_diagnostics.csv
+│   ├── eligibility_audit.csv
+│   ├── pregnancy_safety_outcomes.csv
+│   └── evidence_summary.csv
 ├── docs/
 │   ├── omop_mapping.md
 │   ├── sensitivity_analysis.md
-│   └── external_control_arm.md
+│   ├── external_control_arm.md
+│   ├── pregnancy_safety_outcomes.md
+│   └── hta_evidence_package.md
 ├── scripts/
+│   ├── 01_primary_analysis.py
 │   ├── 02_omop_transformation.py
 │   ├── 03_sensitivity_analysis.py
-│   └── 04_external_control_arm.py
+│   ├── 04_external_control_arm.py
+│   └── 05_pregnancy_safety_outcomes.py
 ├── omop_output/
 │   ├── README.md
 │   ├── person.csv
@@ -303,7 +357,8 @@ GLP1-Target-Trial-Emulation/
     ├── iptw_distribution.svg
     ├── effect_estimates.svg
     ├── sensitivity_risk_ratios.svg
-    └── eca_balance.svg
+    ├── eca_balance.svg
+    └── pregnancy_safety_outcomes.svg
 ```
 
 ---
@@ -339,12 +394,18 @@ GLP1-Target-Trial-Emulation/
 - External-control balance diagnostics
 - ECA common-support analysis
 - ECA bootstrap uncertainty estimation
+- Eligibility-aligned canonical primary analysis
+- Eligibility audit
+- Synthetic pregnancy medication-safety outcome expansion
+- Multi-outcome IPTW analysis with bootstrap uncertainty
+- Integrated HTA-oriented evidence package
 
 ### Planned Extensions
 
-- Additional pregnancy outcomes
-- Expanded HTA-oriented evidence outputs
 - Optional validated OHDSI vocabulary mapping
+- Missing-data and quantitative-bias extensions
+- Time-varying exposure/confounding extensions
+- Real-world registry/EHR adaptation
 
 ---
 
